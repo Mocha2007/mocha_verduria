@@ -1,0 +1,8 @@
+# Erelae (60000/15000 POPS)
+1 = {
+	farmers = {
+		culture = british
+		religion = protestant
+		size = 15000
+	}
+}

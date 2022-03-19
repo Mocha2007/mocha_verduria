@@ -1,0 +1,25 @@
+erelae = {
+	provinces = {
+		1
+	}
+	assimilation_rate = -0.25
+}
+
+lebiscuri = {
+	provinces = {}
+	assimilation_rate = -0.5
+
+}
+
+curym = {
+	provinces = {}
+	assimilation_rate = -0.5
+
+}
+
+arcel = {
+	provinces = {}
+	assimilation_rate = 0.5
+	farm_rgo_size = 10
+	mine_rgo_size = 10
+}
