@@ -59,7 +59,7 @@ naval_base=5.672319
 
 
 #Philippine Trench
-2700 = 
+9 = 
 {
 	unit=
 	{

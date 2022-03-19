@@ -1,3 +1,10 @@
 province;red;green;blue;x;x
-1;96;64;96;Erelae;x
-2700;0;255;255;Sea;x
+1;255;255;0;West Erelae;x
+2;255;20;255;West Erelae;x
+3;255;0;0;West Erelae;x
+4;255;10;255;West Erelae;x
+5;255;255;10;West Erelae;x
+6;0;255;140;West Erelae;x
+7;255;0;255;West Erelae;x
+8;0;255;128;East Erelae;x
+9;0;128;128;Sea;x
