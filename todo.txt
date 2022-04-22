@@ -1,0 +1,4 @@
+regularize map colors
+	0 128 X = sea
+	0 144 X = lake
+	>0 X X = land
