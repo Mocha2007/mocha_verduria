@@ -1,7 +1,7 @@
 defines = {
 
-	start_date = '3480.1.1',
-	end_date = '3630.1.1',
+	start_date = '3480.1.1', -- roughly 1780 CE
+	end_date = '3630.1.1', -- roughly 1930 CE - a 150 year timespan
 
 	country = {
 		YEARS_OF_NATIONALISM 	= 20,   -- Years of Nationalism
