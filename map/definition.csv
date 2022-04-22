@@ -1,21 +1,23 @@
 province;red;green;blue;x;x
-1;255;255;0;West Erelae;x
-2;255;20;255;West Erelae;x
-3;255;0;0;West Erelae;x
-4;255;10;255;West Erelae;x
-5;255;255;10;West Erelae;x
-6;0;255;140;West Erelae;x
-7;255;0;255;West Erelae;x
-8;0;255;128;East Erelae;x
-9;255;128;0;Eretald;x
-10;255;32;0;Xengiman;x
-11;224;160;255;Flora;x
-12;128;255;128;Kebri;x
-13;0;255;82;East-er Erelae;x
-14;0;128;128;Sea;x
-15;32;128;144;Sea;x
-16;0;128;192;Sea;x
-17;0;128;96;Sea;x
-18;0;128;144;Sea;x
-19;0;144;255;Sea;x
-20;0;144;224;Sea;x
+1;255;64;0;West Erelae;x
+2;255;128;0;West Erelae;x
+3;255;192;0;West Erelae;x
+4;255;1;1;West Erelae;x
+5;255;65;1;West Erelae;x
+6;255;129;1;West Erelae;x
+7;255;193;1;West Erelae;x
+8;255;2;2;East Erelae;x
+9;255;66;2;Eretald;x
+10;255;130;2;Xengiman;x
+11;255;194;2;Flora;x
+12;255;3;3;Kebri;x
+13;255;67;3;East-er Erelae;x
+14;255;131;3;Dheknam;x
+15;255;195;3;Ctelm Mountains;x
+16;4;4;255;Sea;x
+17;4;68;255;Sea;x
+18;4;132;255;Sea;x
+19;4;196;255;Sea;x
+20;5;5;255;Sea;x
+21;5;69;255;Sea;x
+22;5;133;255;Sea;x

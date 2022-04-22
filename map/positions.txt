@@ -52,7 +52,7 @@
 	}
 }
 #Philippine Trench
-9 = 
+16 = 
 {
 	unit=
 	{

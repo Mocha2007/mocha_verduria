@@ -1,7 +1,7 @@
-max_provinces = 13 # works for <=11, not for >=15
+max_provinces = 23
 
 sea_starts = { 
-	14 15 16 17 18 19 20
+	16 17 18 19 20 21 22
 }
     
 definitions = "definition.csv"
