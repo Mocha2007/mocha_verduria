@@ -1,7 +1,7 @@
-max_provinces = 28
+max_provinces = 30
 
 sea_starts = { 
-	16 17 18 19 20 21 22 23 24 25 26 27
+	16 17 18 19 20 21 22 23 24 25 26 27 28 29
 }
 
 definitions = "definition.csv"
