@@ -1246,17 +1246,6 @@ pan_nationalist_rebels = {
 		random_country = {
 			limit = {
 				is_culture_group = THIS
-				OR = {
-					is_greater_power = yes
-					tag = WAL
-					tag = MOL
-					tag = SER
-				}
-				NOT = {
-					tag = AUS
-					tag = KUK
-					is_cultural_union = yes
-				}
 				NOT = {
 					cultural_union = { exists = yes }
 				}
@@ -1336,17 +1325,6 @@ carlist_rebels = {
 	# The rebel type with the highest modifier for this pop gets picked
 	spawn_chance = {
 		factor = 1.02
-		
-		modifier = {
-			factor = 0
-			country = { NOT = { tag = SPA}}
-		}
-		modifier = {
-			factor = 1.015
-			country = {
-				tag =  SPA
-			}
-		} 
 		modifier = {
 			factor = 0
 			country = { government = absolute_monarchy }
