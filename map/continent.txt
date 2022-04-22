@@ -7,14 +7,16 @@ erelae = {
 
 lebiscuri = {
 	provinces = {}
-	assimilation_rate = -0.5
-
+	assimilation_rate = 0.5
+	farm_rgo_size = 10
+	mine_rgo_size = 10
 }
 
 curym = {
 	provinces = {}
-	assimilation_rate = -0.5
-
+	assimilation_rate = 0.5
+	farm_rgo_size = 10
+	mine_rgo_size = 10
 }
 
 arcel = {
