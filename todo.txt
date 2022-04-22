@@ -7,3 +7,5 @@ years: add 1700 to our year - based on http://www.zompist.com/vermodern.htm
 divide sea provinces
 	TTA has a max sea province size of 128,000 px.
 	I have to reduce the size of my sea provinces.
+
+replace text/symbols in load_5.dds with almean ones
