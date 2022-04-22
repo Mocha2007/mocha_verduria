@@ -7,11 +7,6 @@ REB 	= 	"countries/rebels.txt"
 DHE		= "countries/Dheknam.txt"
 VER		= "countries/Verduria.txt"
 
-# so the engine doesn't crash...
-RUS		= "countries/Russia.txt"
-CAN		= "countries/Canada.txt"
-ENG		= "countries/United Kingdom.txt"
-
 ##HoD Dominions
 dynamic_tags  = yes # any tags after this is considered dynamic dominions
 D01		= "countries/D01.txt"

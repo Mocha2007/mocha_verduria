@@ -1,0 +1,6 @@
+name = "Mocha's Verdurian Test"
+path = "mod/mocha_verduria"
+user_dir = "verduria"
+replace_path = "events"
+replace_path = "decisions"
+replace_path = "history"
