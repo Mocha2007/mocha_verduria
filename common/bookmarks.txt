@@ -4,5 +4,5 @@ bookmark =
 	desc = "GC_DESC"
 	date = 3480.1.1
 	cameraX = 1900
-	cameraY = 600
+	cameraY = 500
 }
