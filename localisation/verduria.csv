@@ -7,7 +7,23 @@ eretaldan;Eretaldan;Eretaldien;Eretaldisch;;Eretaldiano;;;;;;;;;x
 lebiscuri;Lebiscuri;Lebiscuri;Lebiscuri;;Lebiscuri;;;;;;;;;x
 sea;Sea;La Mer;Meer;;El Mar;;;;;;;;;x
 verdurian;Verdurian;Verdurien;Verdurisch;;Verduriano;;;;;;;;;x
-STATE_1;West Ereláe;Ereláe Occidentale;West Ereláe;;Ereláe Occidental;;;;;;;;;x
-STATE_2;East Ereláe;Ereláe Oriente;Ost Ereláe;;Ereláe Oriente;;;;;;;;;x
 DHE;Dheknam;Dheknam;Dheknam;;Dheknam;;;;;;;;;x
 VER;Verduria;Verduria;Verduria;;Verduria;;;;;;;;;x
+STATE_1;West Ereláe;Ereláe Occidentale;West Ereláe;;Ereláe Occidental;;;;;;;;;x
+STATE_2;East Ereláe;Ereláe Oriente;Ost Ereláe;;Ereláe Oriente;;;;;;;;;x
+PROV1;Bekkai;fr_unk;de_unk;;es_unk;;;;;;;;;x
+PROV2;East Nan;fr_unk;de_unk;;es_unk;;;;;;;;;x
+PROV3;West Nan;fr_unk;de_unk;;es_unk;;;;;;;;;x
+PROV4;Vipodoh;fr_unk;de_unk;;es_unk;;;;;;;;;x
+PROV5;Rau;fr_unk;de_unk;;es_unk;;;;;;;;;x
+PROV6;Jagai;fr_unk;de_unk;;es_unk;;;;;;;;;x
+PROV7;Gering;fr_unk;de_unk;;es_unk;;;;;;;;;x
+PROV8;East Ereláe;fr_unk;de_unk;;es_unk;;;;;;;;;x
+PROV9;Nezië Zëi;fr_unk;de_unk;;es_unk;;;;;;;;;x
+PROV10;Estë Zëi;fr_unk;de_unk;;es_unk;;;;;;;;;x
+PROV11;East Ocean;fr_unk;de_unk;;es_unk;;;;;;;;;x
+PROV12;West Zëi Uytaë;fr_unk;de_unk;;es_unk;;;;;;;;;x
+PROV13;East Zëi Ahuenai;fr_unk;de_unk;;es_unk;;;;;;;;;x
+PROV14;Lake Bérunor;fr_unk;de_unk;;es_unk;;;;;;;;;x
+PROV15;Lake Como;fr_unk;de_unk;;es_unk;;;;;;;;;x
+PROV16;Verduria;fr_unk;de_unk;;es_unk;;;;;;;;;x

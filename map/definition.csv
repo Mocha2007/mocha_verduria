@@ -11,4 +11,7 @@ province;red;green;blue;x;x
 10;32;128;144;Sea;x
 11;0;128;192;Sea;x
 12;0;128;96;Sea;x
-12;0;128;144;Sea;x
+13;0;128;144;Sea;x
+14;0;144;255;Sea;x
+15;0;144;224;Sea;x
+16;255;128;0;Verduria;x
