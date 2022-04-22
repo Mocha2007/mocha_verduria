@@ -1,0 +1,13 @@
+eretaldan = {
+	leader = european
+	unit = EuropeanGC
+	verdurian = { 
+		color = { 0 192 0 }
+
+		first_names = { Teronél }
+
+		last_names = { Lucei "multiword surname" }
+	}
+	
+	# union = GER
+}

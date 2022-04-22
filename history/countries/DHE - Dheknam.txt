@@ -1,7 +1,7 @@
 capital = 1
-primary_culture = british
+primary_culture = verdurian
 #culture = canadian
-religion = protestant
+religion = animist
 government = hms_government
 plurality = 0.2
 nationalvalue = nv_order

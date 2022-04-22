@@ -1,0 +1,19 @@
+cuzeian = {
+	cuzeian = {
+		icon = 1
+		color = { 0.8 0.8 0 }
+	}
+}
+
+pagan = {
+	cadhinoran = {
+		icon = 8
+		color = { 0.5 0.0 0.0 }
+		pagan = yes
+	}
+	animist = {
+		icon = 14
+		color = { 0.5 0.0 0.0 }
+		pagan = yes
+	}
+}
