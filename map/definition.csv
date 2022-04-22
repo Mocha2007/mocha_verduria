@@ -17,7 +17,7 @@ province;red;green;blue;x;x
 16;4;4;255;Nezie Zei;x
 17;4;68;255;Central Zei Ahuenai;x
 18;4;132;255;Zei Mishicama;x
-19;4;196;255;West Este Zei;x
+19;4;196;255;Northwest Este Zei;x
 20;5;5;255;Central Zei Uytae;x
 21;5;69;255;Lake Berunor;x
 22;5;133;255;Lake Eidi Lenan;x
@@ -26,7 +26,9 @@ province;red;green;blue;x;x
 25;6;70;255;Southwest Zei Ahuenai;x
 26;6;134;255;Northwest Zei Ahuenai;x
 27;6;198;255;West Zei Uytae;x
-28;7;7;255;East Este Zei;x
+28;7;7;255;Northeast Este Zei;x
 29;7;71;255;West Zei Escrin;x
 30;7;135;255;East Zei Uytae;x
 31;7;199;255;West Zei Escrin;x
+32;8;8;255;Southwest Este Zei;x
+33;8;72;255;Southeast Este Zei;x
