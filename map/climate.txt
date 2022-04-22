@@ -114,7 +114,7 @@ arid_climate = {
 
 # Cfa
 temperate_subtropical_climate = {
-	9 11 12 13 14
+	9 11 12 13 14 39 40 41
 }
 
 # Cfb/Cfc
@@ -134,7 +134,7 @@ cold_humid_climate = {
 
 # Ds
 cold_highlands_climate = {
-	15
+	15 34 35 36 37 38
 }
 
 # EF
