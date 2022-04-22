@@ -1,1 +1,0 @@
-world_sea_region = { 14 15 16 17 18 }
