@@ -555,8 +555,8 @@ emigration_chance =
 	modifier = {
 		factor = -2.0
 		OR = { 
-			continent = north_america
-			continent = south_america
+			continent = arcel
+			continent = curym
 		}
 		government = democracy
 	}
@@ -592,13 +592,11 @@ assimilation_chance =
 	}
 	modifier = {
 		factor = 10
-		AND = {
-			is_accepted_culture = no
-			OR = { 
-				continent = arcel
-				continent = curym
-				continent = lebiscuri
-			}
+		is_accepted_culture = no
+		OR = { 
+			continent = arcel
+			continent = curym
+			continent = lebiscuri
 		}
 	}
 
