@@ -23,3 +23,10 @@ arcel = {
 	farm_rgo_size = 10
 	mine_rgo_size = 10
 }
+
+# for the purpose of mechanics
+# I am considering
+# arcel = n. america
+# curym = s. america
+# lebiscuri = oceania
+# erelae = eurasia
