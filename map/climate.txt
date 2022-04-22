@@ -1,41 +1,143 @@
-mild_climate =
+# - Climate regions according to the Köppen climate classification
+# - <climate region> = <notation> <attributes> <possible locations>
+# - Info and formula (in English): https://www.britannica.com/science/Koppen-climate-classification
+
+# - Resources on agricultural efficiency: http://sites.tufts.edu/willmasters/files/2010/06/MastersAndWeibe-ClimateAndAgProductivity.pdf
+# - efficiency and sizes are estimates here (not much info on ecology of ME avaiable, none in terms of numbers)
+# - https://decolonialatlas.wordpress.com/2015/03/11/global-agriculture-where-we-grow-what-we-grow-and-how-we-grow/
+
+# - http://www.zompist.com/Almea-climate-sm.jpg
+
+arctic_polar_climate = # EF polar regions
 {
-	farm_rgo_size = 0.0
-	farm_rgo_eff = 0.0
-	mine_rgo_size = 0.0
-	mine_rgo_eff = 0.0
+	farm_rgo_size = -0.45
+	farm_rgo_eff = -0.98
+	mine_rgo_size = -0.8
+	mine_rgo_eff = -0.6
 }
 
-temperate_climate =
+cold_highlands_climate = # Ds warm highland
 {
-	farm_rgo_size = 0.0
-	farm_rgo_eff = 0.0
-	mine_rgo_size = 0.0
-	mine_rgo_eff = 0.0
+	farm_rgo_size = -0.1
+	farm_rgo_eff = -0.05
+	mine_rgo_size = 0.3
+	mine_rgo_eff = 0.2
 }
 
-harsh_climate =
+cold_humid_climate = # Df cold temperate humid
 {
-	farm_rgo_size = 0.0
-	farm_rgo_eff = 0.0
-	mine_rgo_size = 0.0
-	mine_rgo_eff = 0.0
+	farm_rgo_size = 0.2
+	farm_rgo_eff = 0.15
+	mine_rgo_size = 0.2
+	mine_rgo_eff = 0.1
+}
+
+temperate_oceanic_climate = # Cfb/Cfc temperate maritime
+{
+	farm_rgo_size = 0.4
+	farm_rgo_eff = 0.25
+	mine_rgo_size = 0.2
+	mine_rgo_eff = 0.1
+}
+
+temperate_drysummer_climate = # Cs warm dry subtropical
+{
+	farm_rgo_size = 0.15
+	farm_rgo_eff = 0.05
+	mine_rgo_size = 0.1
+	mine_rgo_eff = 0.1
+}
+
+temperate_subtropical_climate = # Cfa warm temperate humid subtropical
+{
+	farm_rgo_size = 0.5
+	farm_rgo_eff = 0.3
+	mine_rgo_size = 0.05
+	mine_rgo_eff = 0.15
+}
+
+arid_cold_climate = # Bsk Cold Deserts
+{
+	farm_rgo_size = -0.45
+	farm_rgo_eff = -0.5
+	mine_rgo_size = -0.3
+	mine_rgo_eff = -0.2
+}
+
+arid_climate = # Bwh Hot Deserts
+{
+	farm_rgo_size = -0.45
+	farm_rgo_eff = -0.95
+	mine_rgo_size = -0.3
+	mine_rgo_eff = -0.2
 	max_attrition = 5
 }
 
-inhospitable_climate =
+semi_arid_climate = # Bsh Hot Steppes
 {
-	farm_rgo_size = 0.0
-	farm_rgo_eff = 0.0
-	mine_rgo_size = 0.0
-	mine_rgo_eff = 0.0
-	max_attrition = 10
+	farm_rgo_size = -0.2
+	farm_rgo_eff = -0.4
+	mine_rgo_size = -0.05
+	mine_rgo_eff = -0.1
+	max_attrition = 3
 }
 
-mild_climate = { 1 2 3 4 5 6 7 8 }
+# todo - just a dupe of semi_arid_climate
+jungle = # A tropical
+{
+	farm_rgo_size = 0.5
+	farm_rgo_eff = 0.3
+	mine_rgo_size = -0.05
+	mine_rgo_eff = -0.1
+	max_attrition = 3
+}
 
-temperate_climate = { }
+# A
+jungle = {
+	1 2 3
+}
 
-harsh_climate = { }
+# Bsh
+semi_arid_climate = {
 
-inhospitable_climate = { 9 }
+}
+
+# Bsk
+arid_cold_climate = {
+
+}
+
+# Bwh
+arid_climate = {
+	4 5
+}
+
+# Cfa
+temperate_subtropical_climate = {
+	9 11 12 13 14
+}
+
+# Cfb/Cfc
+temperate_oceanic_climate = {
+	7 10
+}
+
+# Cs
+temperate_drysummer_climate = {
+	6
+}
+
+# Df
+cold_humid_climate = {
+	8
+}
+
+# Ds
+cold_highlands_climate = {
+	15
+}
+
+# EF
+arctic_polar_climate = {
+
+}
