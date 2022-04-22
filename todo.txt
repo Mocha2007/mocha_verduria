@@ -1,8 +1,3 @@
-regularize map colors
-	0 128 X = sea
-	0 144 X = lake
-	>0 X X = land
-
 years: add 1700 to our year - based on http://www.zompist.com/vermodern.htm
 	3485 = 1785 (+1700 steam locomotive)
 	3543 = 1818 (+1725 Bicycle)

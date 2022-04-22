@@ -1,5 +1,2 @@
-owner = DHE
-controller = DHE
-add_core = DHE
-trade_goods = timber
-life_rating = 35
+trade_goods = fish
+life_rating = 15

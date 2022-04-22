@@ -1,5 +1,5 @@
-# Erelae (60000/15000 POPS)
-1 = {
+# Eretald
+9 = {
 	farmers = {
 		culture = verdurian
 		religion = animist

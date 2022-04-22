@@ -1,13 +1,19 @@
 eretaldan = {
 	leader = european
 	unit = EuropeanGC
-	verdurian = { 
+	dheknam = { 
 		color = { 0 192 0 }
 
-		first_names = { Teronél }
+		first_names = { Teronel }
 
 		last_names = { Lucei "multiword surname" }
 	}
-	
+	verdurian = { 
+		color = { 0 192 0 }
+
+		first_names = { Teronel }
+
+		last_names = { Lucei "multiword surname" }
+	}
 	# union = GER
 }
