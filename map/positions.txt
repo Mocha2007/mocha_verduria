@@ -358,24 +358,34 @@
 # Fort Simpson
 9 = {
     text_position = {
-        x = 934.000000
-        y = 2093.000000
+        x = 1620.670000
+        y = 667.493333
     }
 
-    text_scale = 4.399998
-    building_construction = {
-        x = 915.000000
-        y = 2116.000000
+    text_scale = 4
+    unit = {
+        x = 1620.846667
+        y = 669.083333
     }
 
-    military_construction = {
-        x = 931.000000
-        y = 2082.000000
+    city = {
+        x = 1619.963333
+        y = 675.443333
     }
 
     factory = {
-        x = 929.000000
-        y = 2127.000000
+        x = 1620.316667
+        y = 664.401667
+    }
+
+    building_construction = {
+        x = 1626.853333
+        y = 672.440000
+    }
+
+    military_construction = {
+        x = 1613.603333
+        y = 664.225000
     }
 
     building_position = {
