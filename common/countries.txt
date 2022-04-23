@@ -4,7 +4,7 @@
 REB 	= "countries/rebels.txt"
 
 # Almea (Alphabetical)
-DHE		= "countries/Dheknam.txt"
+DHE		= "countries/Dhekhnam.txt"
 FLO		= "countries/Flora.txt"
 KEB		= "countries/Kebri.txt"
 VER		= "countries/Verduria.txt"

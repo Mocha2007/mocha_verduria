@@ -4,7 +4,7 @@ bekkai = {
 	1 139 140 141
 }
 
-dheknam = {
+dhekhnam = {
 	14 42 43 44 45
 }
 
