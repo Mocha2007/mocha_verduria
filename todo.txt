@@ -21,3 +21,6 @@ remaining land:
 	- MAYBE Xengiman - but doubtful
 	- MAYBE barbarian plain - but doubtful
 	- West Erelae
+		>= 23 provinces
+sea:
+	~89 provinces
