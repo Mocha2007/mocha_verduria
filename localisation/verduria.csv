@@ -7,6 +7,7 @@ erelae;Ereláe;Ereláe;Ereláe;;Ereláe;;;;;;;;;x
 eretald;Eretald;Eretald;Eretald;;Eretald;;;;;;;;;x
 eretaldan;Eretaldan;Eretaldien;Eretaldisch;;Eretaldiano;;;;;;;;;x
 lebiscuri;Lebiscuri;Lebiscuri;Lebiscuri;;Lebiscuri;;;;;;;;;x
+luduyn;Luduyn;Luduyn;Luduyn;;Luduyn;;;;;;;;;x
 sea;Sea;La Mer;Meer;;El Mar;;;;;;;;;x
 somoyi;Somoyi-Metelyi;Somoyi-Metelyi;Somoyi-Metelyi;;Somoyi-Metelyi;;;;;;;;;x
 verdurian;Verdurian;Verdurien;Verdurisch;;Verduriano;;;;;;;;;x
@@ -21,7 +22,7 @@ PROV4;Vipodoh;fr_unk;de_unk;;es_unk;;;;;;;;;x
 PROV5;Rau;fr_unk;de_unk;;es_unk;;;;;;;;;x
 PROV6;Jagai;fr_unk;de_unk;;es_unk;;;;;;;;;x
 PROV7;Gering;fr_unk;de_unk;;es_unk;;;;;;;;;x
-PROV8;East Ereláe;fr_unk;de_unk;;es_unk;;;;;;;;;x
+PROV8;Barbarian Plain;fr_unk;de_unk;;es_unk;;;;;;;;;x
 PROV9;Verdúria;fr_unk;de_unk;;es_unk;;;;;;;;;x
 PROV10;Xengiman;fr_unk;de_unk;;es_unk;;;;;;;;;x
 PROV11;Flora;fr_unk;de_unk;;es_unk;;;;;;;;;x
@@ -109,3 +110,13 @@ PROV90;TODO_SOMOYI;fr_unk;de_unk;;es_unk;;;;;;;;;x
 PROV91;TODO_SOMOYI;fr_unk;de_unk;;es_unk;;;;;;;;;x
 PROV92;TODO_SOMOYI;fr_unk;de_unk;;es_unk;;;;;;;;;x
 END_OF_SOMOYI;;;;;;;;;;;;;;x
+PROV93;Nagbe;fr_unk;de_unk;;es_unk;;;;;;;;;x
+PROV94;Elcari;fr_unk;de_unk;;es_unk;;;;;;;;;x
+PROV95;Ludiro;fr_unk;de_unk;;es_unk;;;;;;;;;x
+PROV96;Luxae;fr_unk;de_unk;;es_unk;;;;;;;;;x
+PROV97;Omi;fr_unk;de_unk;;es_unk;;;;;;;;;x
+PROV98;Ša;fr_unk;de_unk;;es_unk;;;;;;;;;x
+PROV99;Naen;fr_unk;de_unk;;es_unk;;;;;;;;;x
+PROV100;Gurdago;fr_unk;de_unk;;es_unk;;;;;;;;;x
+PROV101;Gunik;fr_unk;de_unk;;es_unk;;;;;;;;;x
+END_OF_LUDUYN;;;;;;;;;;;;;;x

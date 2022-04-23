@@ -130,6 +130,8 @@ temperate_subtropical_climate = {
 # Cfb/Cfc
 temperate_oceanic_climate = {
 	7 10
+	# luduyn
+	95 98 101
 }
 
 # Cs
@@ -137,9 +139,11 @@ temperate_drysummer_climate = {
 	6
 }
 
-# Df
+# Df taiga
 cold_humid_climate = {
 	8
+	# luduyn
+	93 94 96 97 99 100
 }
 
 # Ds
