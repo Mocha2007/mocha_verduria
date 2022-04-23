@@ -1,7 +1,7 @@
 erelaean = {
 	leader = european
 	unit = EuropeanGC
-	dheknam = { 
+	dhekhnami = { 
 		color = { 128 96 64 }
 
 		first_names = { Teronel }

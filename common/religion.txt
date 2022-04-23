@@ -5,6 +5,13 @@ cuzeian = {
 	}
 }
 
+gelalhat = {
+	gelalhat = {
+		icon = 3
+		color = { 0.8 0.7 0.2 }
+	}
+}
+
 irreanist = {
 	irreanist = {
 		icon = 2
