@@ -4,8 +4,10 @@ sea_starts = {
 	16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33
 }
 
-# definitions = "definition.csv"
-definitions = "../mod/mocha_verduria/map/definition.csv"
+# use the first line for viewing in the clauswitz scenario editor
+# use the second line for actually playing victoria
+definitions = "definition.csv"
+# definitions = "../mod/mocha_verduria/map/definition.csv"
 provinces = "provinces.bmp"
 positions = "positions.txt"
 terrain = "terrain.bmp"
