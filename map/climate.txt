@@ -133,6 +133,8 @@ temperate_oceanic_climate = {
 	7 10
 	# luduyn
 	95 98 101
+	# feinae
+	109 110 111 112 113
 }
 
 # Cs

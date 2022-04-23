@@ -6,6 +6,7 @@ dheknam;Dhekhnam;Dhekhnam;Dhekhnam;;Dhekhnam;;;;;;;;;x
 erelae;Ereláe;Ereláe;Ereláe;;Ereláe;;;;;;;;;x
 eretald;Eretald;Eretald;Eretald;;Eretald;;;;;;;;;x
 eretaldan;Eretaldan;Eretaldien;Eretaldisch;;Eretaldiano;;;;;;;;;x
+feinae;Feináe;Feináe;Feináe;;Feináe;;;;;;;;;x
 kebri;Kebri;Kebri;Kebri;;Kebri;;;;;;;;;x
 lebiscuri;Lebiscuri;Lebiscuri;Lebiscuri;;Lebiscuri;;;;;;;;;x
 luduyn;Luduyn;Luduyn;Luduyn;;Luduyn;;;;;;;;;x
@@ -130,3 +131,10 @@ PROV105;Icëlani;fr_unk;de_unk;;es_unk;;;;;;;;;x
 PROV106;Southern Quebec;fr_unk;de_unk;;es_unk;;;;;;;;;x
 PROV107;Kebri Quebec;fr_unk;de_unk;;es_unk;;;;;;;;;x
 PROV108;Verdurian Southern Quebec;fr_unk;de_unk;;es_unk;;;;;;;;;x
+END_OF_QUEBEC;;;;;;;;;;;;;;x
+PROV109;Qaraus;fr_unk;de_unk;;es_unk;;;;;;;;;x
+PROV110;Feidal;fr_unk;de_unk;;es_unk;;;;;;;;;x
+PROV111;Iliu;fr_unk;de_unk;;es_unk;;;;;;;;;x
+PROV112;Kurimim;fr_unk;de_unk;;es_unk;;;;;;;;;x
+PROV113;Jaešim;fr_unk;de_unk;;es_unk;;;;;;;;;x
+END_OF_FEINAE;;;;;;;;;;;;;;x

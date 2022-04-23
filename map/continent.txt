@@ -19,6 +19,8 @@ erelae = {
 		100 101
 		# "Quebec"
 		102 103 104 105 106 107 108
+		# Feinae
+		109 110 111 112 113
 	}
 	assimilation_rate = -0.25
 }
