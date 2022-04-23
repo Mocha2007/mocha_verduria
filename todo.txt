@@ -24,3 +24,6 @@ remaining land:
 		>= 23 provinces
 sea:
 	~89 provinces
+
+FORGOTTEN:
+	- I forgot Azgami between Erenat and Ismahi on the coast of Eretald

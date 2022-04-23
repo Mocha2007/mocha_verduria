@@ -5,6 +5,13 @@ cuzeian = {
 	}
 }
 
+irreanist = {
+	irreanist = {
+		icon = 2
+		color = { 0.5 1.0 0.5 }
+	}
+}
+
 pagan = {
 	cadhinoran = {
 		icon = 8

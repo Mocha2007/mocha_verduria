@@ -24,3 +24,15 @@ eretaldan = {
 	}
 	# union = GER
 }
+flaidish = {
+	leader = european
+	unit = EuropeanGC
+	flaidish = { 
+		color = { 192 255 192 }
+
+		first_names = { Teronel }
+
+		last_names = { Lucei "multiword surname" }
+	}
+	union = FLO
+}

@@ -1,2 +1,7 @@
-trade_goods = tobacco
-life_rating = 15
+owner = FLO
+controller = FLO
+add_core = FLO
+trade_goods = fish # the flaids largely subsisted from fishing
+life_rating = 35
+fort = 4
+naval_base = 1
