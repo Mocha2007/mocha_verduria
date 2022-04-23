@@ -1,15 +1,8 @@
-eretaldan = {
+erelaean = {
 	leader = european
 	unit = EuropeanGC
 	dheknam = { 
 		color = { 128 96 64 }
-
-		first_names = { Teronel }
-
-		last_names = { Lucei "multiword surname" }
-	}
-	kebri = { 
-		color = { 0 192 192 }
 
 		first_names = { Teronel }
 
@@ -22,8 +15,8 @@ eretaldan = {
 
 		last_names = { Lucei "multiword surname" }
 	}
-	# union = GER
 }
+
 flaidish = {
 	leader = european
 	unit = EuropeanGC
@@ -35,4 +28,17 @@ flaidish = {
 		last_names = { Lucei "multiword surname" }
 	}
 	union = FLO
+}
+
+metaiun = {
+	leader = european
+	unit = EuropeanGC
+	kebri = { 
+		color = { 0 192 192 }
+
+		first_names = { Teronel }
+
+		last_names = { Lucei "multiword surname" }
+	}
+	union = KEB
 }
