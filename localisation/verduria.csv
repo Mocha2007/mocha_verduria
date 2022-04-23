@@ -28,10 +28,10 @@ STATE_2;East Ereláe;Ereláe Oriente;Ost Ereláe;;Ereláe Oriente;;;;;;;;;x
 PROV1;Bekkai;fr_unk;de_unk;;es_unk;;;;;;;;;x
 PROV2;East Nan;fr_unk;de_unk;;es_unk;;;;;;;;;x
 PROV3;West Nan;fr_unk;de_unk;;es_unk;;;;;;;;;x
-PROV4;Vipodoh;fr_unk;de_unk;;es_unk;;;;;;;;;x
+PROV4;South Vipodoh;fr_unk;de_unk;;es_unk;;;;;;;;;x
 PROV5;Rau;fr_unk;de_unk;;es_unk;;;;;;;;;x
-PROV6;Jagai;fr_unk;de_unk;;es_unk;;;;;;;;;x
-PROV7;Gering;fr_unk;de_unk;;es_unk;;;;;;;;;x
+PROV6;Lower Jagai;fr_unk;de_unk;;es_unk;;;;;;;;;x
+PROV7;Coastal Gering;fr_unk;de_unk;;es_unk;;;;;;;;;x
 PROV8;East Barbarian Plain;fr_unk;de_unk;;es_unk;;;;;;;;;x
 PROV9;Verdúria;fr_unk;de_unk;;es_unk;;;;;;;;;x
 PROV10;Xengiman;fr_unk;de_unk;;es_unk;;;;;;;;;x
@@ -163,3 +163,11 @@ PROV128;Suböyi;fr_unk;de_unk;;es_unk;;;;;;;;;x
 PROV129;Leru;fr_unk;de_unk;;es_unk;;;;;;;;;x
 END_OF_EXTRA_SOMOYI;;;;;;;;;;;;;;x
 PROV130;West Barbarian Plain;fr_unk;de_unk;;es_unk;;;;;;;;;x
+PROV131;East Gering;fr_unk;de_unk;;es_unk;;;;;;;;;x
+PROV132;West Gering;fr_unk;de_unk;;es_unk;;;;;;;;;x
+PROV133;Upper Jagai;fr_unk;de_unk;;es_unk;;;;;;;;;x
+PROV134;Middle Jagai;fr_unk;de_unk;;es_unk;;;;;;;;;x
+PROV135;North Vipodoh;fr_unk;de_unk;;es_unk;;;;;;;;;x
+PROV136;Gangalla;fr_unk;de_unk;;es_unk;;;;;;;;;x
+PROV137;Upper Téllinor;fr_unk;de_unk;;es_unk;;;;;;;;;x
+PROV138;Lower Téllinor;fr_unk;de_unk;;es_unk;;;;;;;;;x

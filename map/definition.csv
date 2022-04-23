@@ -129,3 +129,11 @@ province;red;green;blue;x;x
 128;255;32;32;PROV_NAME;x
 129;255;96;32;END_OF_EXTRA_SOMOYI;x
 130;255;160;32;West Barbarian Plain;x
+131;255;224;32;East Gering;x
+132;255;33;33;West Gering;x
+133;255;97;33;Upper Jagai;x
+134;255;161;33;Middle Jagai;x
+135;255;225;33;North Vipodoh;x
+136;255;34;34;Gangalla;x
+137;255;98;34;Upper Tellinor;x
+138;255;162;34;Lower Tellinor;x
