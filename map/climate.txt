@@ -126,6 +126,7 @@ temperate_subtropical_climate = {
 	# Somoyi
 	84 85 86 87 88 89
 	90 91 92
+	128 129
 }
 
 # Cfb/Cfc
