@@ -1,6 +1,5 @@
 capital = 9
 primary_culture = verdurian
-#culture = canadian
 religion = animist
 government = hms_government
 plurality = 0.2

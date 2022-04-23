@@ -1,6 +1,5 @@
 capital = 11 # Flora
 primary_culture = flaidish
-#culture = canadian
 religion = irreanist
 government = democracy
 plurality = 0.2

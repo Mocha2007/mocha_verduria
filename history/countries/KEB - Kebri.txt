@@ -1,6 +1,5 @@
 capital = 12
 primary_culture = kebri
-#culture = canadian
 religion = animist
 government = hms_government
 plurality = 0.2
