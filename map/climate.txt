@@ -115,7 +115,7 @@ arid_climate = {
 
 # Cfa
 temperate_subtropical_climate = {
-	9 11 12 13 14 39
+	9 11 12 14 39
 	40 41 42 43 44 45
 	# Eretald (excl. verduria city)
 	46 47 48 49
@@ -135,6 +135,9 @@ temperate_oceanic_climate = {
 	95 98 101
 	# feinae
 	109 110 111 112 113
+	# skouras
+	114 115 116 118 119
+	120 121 122 123 124 125 126 127
 }
 
 # Cs
@@ -147,6 +150,8 @@ cold_humid_climate = {
 	8
 	# luduyn
 	93 94 96 97 99 100
+	# skouras
+	13 117
 }
 
 # Ds

@@ -12,6 +12,7 @@ lebiscuri;Lebiscuri;Lebiscuri;Lebiscuri;;Lebiscuri;;;;;;;;;x
 luduyn;Luduyn;Luduyn;Luduyn;;Luduyn;;;;;;;;;x
 quebec;Quebec;Quebec;Quebec;;Quebec;;;;;;;;;x
 sea;Sea;La Mer;Meer;;El Mar;;;;;;;;;x
+skouras;Skouras;Skouras;Skouras;;Skouras;;;;;;;;;x
 somoyi;Somoyi-Metelyi;Somoyi-Metelyi;Somoyi-Metelyi;;Somoyi-Metelyi;;;;;;;;;x
 verdurian;Verdurian;Verdurien;Verdurisch;;Verduriano;;;;;;;;;x
 DHE;Dhekhnam;Dhekhnam;Dhekhnam;;Dhekhnam;;;;;;;;;x
@@ -31,7 +32,7 @@ PROV9;Verdúria;fr_unk;de_unk;;es_unk;;;;;;;;;x
 PROV10;Xengiman;fr_unk;de_unk;;es_unk;;;;;;;;;x
 PROV11;Flora;fr_unk;de_unk;;es_unk;;;;;;;;;x
 PROV12;Kebri;fr_unk;de_unk;;es_unk;;;;;;;;;x
-PROV13;East-er Ereláe;fr_unk;de_unk;;es_unk;;;;;;;;;x
+PROV13;Šura;fr_unk;de_unk;;es_unk;;;;;;;;;x
 PROV14;Demóshimor;fr_unk;de_unk;;es_unk;;;;;;;;;x
 PROV15;Ctelm Mountains;fr_unk;de_unk;;es_unk;;;;;;;;;x
 PROV16;Nezië Zëi;fr_unk;de_unk;;es_unk;;;;;;;;;x
@@ -138,3 +139,18 @@ PROV111;Iliu;fr_unk;de_unk;;es_unk;;;;;;;;;x
 PROV112;Kurimim;fr_unk;de_unk;;es_unk;;;;;;;;;x
 PROV113;Jaešim;fr_unk;de_unk;;es_unk;;;;;;;;;x
 END_OF_FEINAE;;;;;;;;;;;;;;x
+PROV114;Lumbai;fr_unk;de_unk;;es_unk;;;;;;;;;x
+PROV115;Belšai;fr_unk;de_unk;;es_unk;;;;;;;;;x
+PROV116;Sevisor;fr_unk;de_unk;;es_unk;;;;;;;;;x
+PROV117;Cheiy;fr_unk;de_unk;;es_unk;;;;;;;;;x
+PROV118;Räntsüzôl;fr_unk;de_unk;;es_unk;;;;;;;;;x
+PROV119;Namal;fr_unk;de_unk;;es_unk;;;;;;;;;x
+PROV120;Barmund;fr_unk;de_unk;;es_unk;;;;;;;;;x
+PROV121;Chisra;fr_unk;de_unk;;es_unk;;;;;;;;;x
+PROV122;Lutay;fr_unk;de_unk;;es_unk;;;;;;;;;x
+PROV123;Lenda;fr_unk;de_unk;;es_unk;;;;;;;;;x
+PROV124;Tral;fr_unk;de_unk;;es_unk;;;;;;;;;x
+PROV125;Darai;fr_unk;de_unk;;es_unk;;;;;;;;;x
+PROV126;Gelimai;fr_unk;de_unk;;es_unk;;;;;;;;;x
+PROV127;Šiji;fr_unk;de_unk;;es_unk;;;;;;;;;x
+END_OF_SKOURAS;;;;;;;;;;;;;;x
