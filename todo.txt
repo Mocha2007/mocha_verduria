@@ -36,6 +36,8 @@ potential issues for why the crash happens:
 	- do + intersections in the province map cause crashes (make sure there's no four-corner provinces like AZ/NM/CO/UT)
 		nope, my other mod does this just fine
 	- missing trade goods (economy crashes?)
+	- missing oob files?
+		nope, added REB but still crashes
 	- (try checking what the loading screen says in vanilla vicky when starting a new game)
 		- "Adapting History..." and that's it
 
