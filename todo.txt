@@ -28,8 +28,13 @@ potential issues for why the crash happens:
 	- missing pops
 		tested: missing pops do not cause a crash
 	- missing newline at the end of a province file, or some other file
+		nope, all good
 	- invalid positions in positions.txt
+		vanilla map works even with positions deleted, it has defaults apparently
 	- terrain / province map mismatch???
+	- missing trade goods (economy crashes?)
+	- (try checking what the loading screen says in vanilla vicky when starting a new game)
+		- "Adapting History..." and that's it
 
 FORGOTTEN:
 	- I forgot Azgami between Erenat and Ismahi on the coast of Eretald
