@@ -24,5 +24,12 @@ remaining land:
 sea:
 	~89 provinces
 
+potential issues for why the crash happens:
+	- missing pops
+		tested: missing pops do not cause a crash
+	- missing newline at the end of a province file, or some other file
+	- invalid positions in positions.txt
+	- terrain / province map mismatch???
+
 FORGOTTEN:
 	- I forgot Azgami between Erenat and Ismahi on the coast of Eretald
