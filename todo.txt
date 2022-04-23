@@ -11,3 +11,5 @@ divide sea provinces
 replace text/symbols in load_5.dds with almean ones
 
 fix party start/end dates in common/countries/...txt
+
+land province HARD SIZE LIMIT = 20,000 pixels
