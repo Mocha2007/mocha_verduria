@@ -23,7 +23,7 @@ flaidish = {
 	flaidish = { 
 		color = { 192 255 192 }
 
-		first_names = { Teronel }
+		first_names = { Chendio Gennil Vaadel }
 
 		last_names = { Lucei "multiword surname" }
 	}
