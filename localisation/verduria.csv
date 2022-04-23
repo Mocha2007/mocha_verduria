@@ -10,7 +10,7 @@ feinae;Feináe;Feináe;Feináe;;Feináe;;;;;;;;;x
 kebri;Kebri;Kebri;Kebri;;Kebri;;;;;;;;;x
 lebiscuri;Lebiscuri;Lebiscuri;Lebiscuri;;Lebiscuri;;;;;;;;;x
 luduyn;Luduyn;Luduyn;Luduyn;;Luduyn;;;;;;;;;x
-quebec;Quebec;Quebec;Quebec;;Quebec;;;;;;;;;x
+quebec;Irqaraumia;Irqaraumia;Irqaraumia;;Irqaraumia;;;;;;;;;x
 sea;Sea;La Mer;Meer;;El Mar;;;;;;;;;x
 skouras;Skouras;Skouras;Skouras;;Skouras;;;;;;;;;x
 somoyi;Somoyi-Metelyi;Somoyi-Metelyi;Somoyi-Metelyi;;Somoyi-Metelyi;;;;;;;;;x
@@ -125,13 +125,13 @@ PROV99;Naen;fr_unk;de_unk;;es_unk;;;;;;;;;x
 PROV100;Gurdago;fr_unk;de_unk;;es_unk;;;;;;;;;x
 PROV101;Gunik;fr_unk;de_unk;;es_unk;;;;;;;;;x
 END_OF_LUDUYN;;;;;;;;;;;;;;x
-PROV102;Verdurian Northern Quebec;fr_unk;de_unk;;es_unk;;;;;;;;;x
+PROV102;Leán;fr_unk;de_unk;;es_unk;;;;;;;;;x
 PROV103;Irqaraus;fr_unk;de_unk;;es_unk;;;;;;;;;x
 PROV104;Iliu;fr_unk;de_unk;;es_unk;;;;;;;;;x
 PROV105;Icëlani;fr_unk;de_unk;;es_unk;;;;;;;;;x
-PROV106;Southern Quebec;fr_unk;de_unk;;es_unk;;;;;;;;;x
-PROV107;Kebri Quebec;fr_unk;de_unk;;es_unk;;;;;;;;;x
-PROV108;Verdurian Southern Quebec;fr_unk;de_unk;;es_unk;;;;;;;;;x
+PROV106;Southern Irqaraumia;fr_unk;de_unk;;es_unk;;;;;;;;;x
+PROV107;Broidabo;fr_unk;de_unk;;es_unk;;;;;;;;;x
+PROV108;Karimia;fr_unk;de_unk;;es_unk;;;;;;;;;x
 END_OF_QUEBEC;;;;;;;;;;;;;;x
 PROV109;Qaraus;fr_unk;de_unk;;es_unk;;;;;;;;;x
 PROV110;Feidal;fr_unk;de_unk;;es_unk;;;;;;;;;x
