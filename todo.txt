@@ -9,3 +9,5 @@ divide sea provinces
 	I have to reduce the size of my sea provinces.
 
 replace text/symbols in load_5.dds with almean ones
+
+fix party start/end dates in common/countries/...txt

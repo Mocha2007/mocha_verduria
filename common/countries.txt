@@ -1,8 +1,9 @@
 #Please keep tags sorted alphabetically when you add/remove country tags
 
 # Special countries...
-REB 	= 	"countries/rebels.txt"
+REB 	= "countries/rebels.txt"
 
-# Great Powers
+# Almea (Alphabetical)
 DHE		= "countries/Dheknam.txt"
+KEB		= "countries/Kebri.txt"
 VER		= "countries/Verduria.txt"

@@ -1,4 +1,4 @@
-color = { 209  66  58 }
+color = { 191  177  166 }
 graphical_culture = BritishGC
 
 
