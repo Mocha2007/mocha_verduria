@@ -1,7 +1,7 @@
 #army_doctrine
 post_napoleonic_thought = {
 	area = army_doctrine
-	year = 1836
+	year = 3536
 	cost = 3600
 	unciv_military = yes
 
@@ -48,7 +48,7 @@ post_napoleonic_thought = {
 
 strategic_mobility = {
 	area = army_doctrine
-	year = 1836
+	year = 3536
 	cost = 7200
 	unciv_military = yes
 	
@@ -87,11 +87,11 @@ strategic_mobility = {
 		}
 		modifier = {
 			factor = 1.1
-			year = 1840
+			year = 3540
 		}
 		modifier = {
 			factor = 2
-			year = 1850
+			year = 3550
 		}
 		modifier = {
 			factor = 1.1
@@ -102,7 +102,7 @@ strategic_mobility = {
 
 point_defense_system = {
 	area = army_doctrine
-	year = 1850
+	year = 3550
 	cost = 10800
 	unciv_military = yes
 	engineer = {
@@ -130,11 +130,11 @@ point_defense_system = {
 		}
 		modifier = {
 			factor = 1.1
-			year = 1860
+			year = 3560
 		}
 		modifier = {
 			factor = 2
-			year = 1870
+			year = 3570
 		}
 		modifier = {
 			factor = 1.4
@@ -157,7 +157,7 @@ point_defense_system = {
 }
 deep_defense_system = {
 	area = army_doctrine
-	year = 1870
+	year = 3570
 	cost = 14400
 	unciv_military = yes
 	engineer = {
@@ -186,11 +186,11 @@ deep_defense_system = {
 		}
 		modifier = {
 			factor = 1.1
-			year = 1875
+			year = 3575
 		}
 		modifier = {
 			factor = 2
-			year = 1880
+			year = 3580
 		}
 		modifier = {
 			factor = 1.4
@@ -212,7 +212,7 @@ deep_defense_system = {
 }
 infiltration = {
 	area = army_doctrine
-	year = 1900
+	year = 3600
 	cost = 18000
 	unciv_military = yes
 		
@@ -259,7 +259,7 @@ infiltration = {
 }
 modern_army_doctrine = {
 	area = army_doctrine
-	year = 1919
+	year = 3619
 	cost = 21600
 	unciv_military = yes
 	
@@ -308,7 +308,7 @@ modern_army_doctrine = {
 #light_armament
 flintlock_rifles = {
 	area = light_armament
-	year = 1836
+	year = 3536
 	cost = 3600
 	unciv_military = yes
 	
@@ -350,7 +350,7 @@ flintlock_rifles = {
 }
 muzzle_loaded_rifles = {
 	area = light_armament
-	year = 1836
+	year = 3536
 	cost = 7200
 	unciv_military = yes
 	activate_unit = engineer
@@ -375,7 +375,7 @@ muzzle_loaded_rifles = {
 		modifier = {
 			factor = 6
 			rank = 16
-			year = 1850
+			year = 3550
 		}
 		modifier = {
 			factor = 1.05
@@ -397,7 +397,7 @@ muzzle_loaded_rifles = {
 }
 breech_loaded_rifles = {
 	area = light_armament
-	year = 1850
+	year = 3550
 	cost = 10800
 
 	activate_unit = guard
@@ -414,7 +414,7 @@ breech_loaded_rifles = {
 		modifier = {
 			factor = 6
 			rank = 16
-			year = 1860
+			year = 3560
 		}
 		modifier = {
 			factor = 1.05
@@ -445,7 +445,7 @@ breech_loaded_rifles = {
 }
 machine_guns = {
 	area = light_armament
-	year = 1870
+	year = 3570
 	cost = 14400
 	unciv_military = yes
 	
@@ -491,7 +491,7 @@ machine_guns = {
 }
 bolt_action_rifles = {
 	area = light_armament
-	year = 1900
+	year = 3600
 	cost = 18000
 	unciv_military = yes
 	unit = 1
@@ -533,7 +533,7 @@ bolt_action_rifles = {
 }
 modern_divisional_structure = {
 	area = light_armament
-	year = 1919
+	year = 3619
 	cost = 21600
 	unciv_military = yes
 
@@ -578,7 +578,7 @@ modern_divisional_structure = {
 #heavy_armament
 bronze_muzzle_loaded_artillery = {
 	area = heavy_armament
-	year = 1836
+	year = 3536
 	cost = 3600
 	unciv_military = yes
 	activate_unit = artillery
@@ -618,7 +618,7 @@ bronze_muzzle_loaded_artillery = {
 }
 iron_muzzle_loaded_artillery = {
 	area = heavy_armament
-	year = 1836
+	year = 3536
 	cost = 7200
 	unciv_military = yes
 	artillery = {
@@ -662,7 +662,7 @@ iron_muzzle_loaded_artillery = {
 }
 iron_breech_loaded_artillery = {
 	area = heavy_armament
-	year = 1850
+	year = 3550
 	cost = 10800
 	unciv_military = yes
 	artillery = {
@@ -705,7 +705,7 @@ iron_breech_loaded_artillery = {
 }
 steel_breech_loaded_artillery = {
 	area = heavy_armament
-	year = 1870
+	year = 3570
 	cost = 14400
 	unciv_military = yes
 	artillery = {
@@ -749,7 +749,7 @@ steel_breech_loaded_artillery = {
 }
 indirect_artillery_fire = {
 	area = heavy_armament
-	year = 1900
+	year = 3600
 	cost = 18000
 	unciv_military = yes
 	artillery = {
@@ -794,7 +794,7 @@ indirect_artillery_fire = {
 }
 heavy_armament_dunno = {
 	area = heavy_armament
-	year = 1919
+	year = 3619
 	cost = 21600
 	unciv_military = yes
 	artillery = {
@@ -842,7 +842,7 @@ heavy_armament_dunno = {
 #military_science
 military_staff_system = {
 	area = military_science
-	year = 1836
+	year = 3536
 	cost = 3600
 	unciv_military = yes
 	
@@ -886,7 +886,7 @@ military_staff_system = {
 }
 military_plans = {
 	area = military_science
-	year = 1836
+	year = 3536
 	cost = 7200
 	unciv_military = yes
 	
@@ -930,7 +930,7 @@ military_plans = {
 }
 military_statistics = {
 	area = military_science
-	year = 1850
+	year = 3550
 	cost = 10800
 	unciv_military = yes
 	
@@ -974,7 +974,7 @@ military_statistics = {
 }
 military_logistics = {
 	area = military_science
-	year = 1870
+	year = 3570
 	cost = 14400
 	unciv_military = yes
 	
@@ -1019,7 +1019,7 @@ military_logistics = {
 }
 military_directionism = {
 	area = military_science
-	year = 1900
+	year = 3600
 	cost = 18000
 	unciv_military = yes
 	
@@ -1066,7 +1066,7 @@ military_directionism = {
 }
 aeronautics = {
 	area = military_science
-	year = 1914
+	year = 3614
 	cost = 21600
 	army_base = {
 		default_organisation = 10
@@ -1113,7 +1113,7 @@ aeronautics = {
 #army_leadership
 army_command_principle = {
 	area = army_leadership
-	year = 1836
+	year = 3536
 	cost = 3600
 
 	morale = 0.25
@@ -1137,17 +1137,17 @@ army_command_principle = {
 		modifier = {
 			factor = 1.05
 			rank = 16
-			year = 1850
+			year = 3550
 		}
 		modifier = {
 			factor = 1.05
-			year = 1860
+			year = 3560
 		}
 	}
 }
 army_professionalism = {
 	area = army_leadership
-	year = 1836
+	year = 3536
 	cost = 7200
 	unciv_military = yes
 	morale = 0.1
@@ -1183,11 +1183,11 @@ army_professionalism = {
 		modifier = {
 			factor = 1.05
 			rank = 16
-			year = 1850
+			year = 3550
 		}
 		modifier = {
 			factor = 1.05
-			year = 1860
+			year = 3560
 		}
 		modifier = {
 			factor = 1.5
@@ -1201,7 +1201,7 @@ army_professionalism = {
 }
 army_decision_making = {
 	area = army_leadership
-	year = 1850
+	year = 3550
 	cost = 10800
 	unciv_military = yes
 	morale = 0.2
@@ -1229,11 +1229,11 @@ army_decision_making = {
 		modifier = {
 			factor = 1.05
 			rank = 16
-			year = 1860
+			year = 3560
 		}
 		modifier = {
 			factor = 1.05
-			year = 1870
+			year = 3570
 		}
 		modifier = {
 			factor = 1.02
@@ -1256,7 +1256,7 @@ army_decision_making = {
 }
 army_risk_management = {
 	area = army_leadership
-	year = 1870
+	year = 3570
 	cost = 14400
 	unciv_military = yes
 	morale = 0.20
@@ -1280,11 +1280,11 @@ army_risk_management = {
 		modifier = {
 			factor = 1.05
 			rank = 16
-			year = 1880
+			year = 3580
 		}
 		modifier = {
 			factor = 1.05
-			year = 1890
+			year = 3590
 		}
 		modifier = {
 			factor = 1.05
@@ -1311,7 +1311,7 @@ army_risk_management = {
 }
 army_nco_training = {
 	area = army_leadership
-	year = 1900
+	year = 3600
 	cost = 18000
 	unciv_military = yes
 	morale = 0.25
@@ -1340,11 +1340,11 @@ army_nco_training = {
 		modifier = {
 			factor = 1.05
 			rank = 16
-			year = 1910
+			year = 3610
 		}
 		modifier = {
 			factor = 1.05
-			year = 1920
+			year = 3620
 		}
 		modifier = {
 			factor = 1.02
@@ -1367,7 +1367,7 @@ army_nco_training = {
 }
 great_war_experience = {
 	area = army_leadership
-	year = 1919
+	year = 3619
 	cost = 21600
 	unciv_military = yes
 	morale = 0.5
