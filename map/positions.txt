@@ -433,25 +433,35 @@
 
 # Echo Bay
 11 = {
-    unit = {
-        x = 1009.000000
-        y = 2139.000000
-    }
-
     text_position = {
-        x = 1009.000000
-        y = 2132.000000
+        x = 1629.400000
+        y = 709.950000
     }
 
-    text_scale = 4.799998
-    building_construction = {
-        x = 1018.000000
-        y = 2123.000000
+    text_scale = 3
+    unit = {
+        x = 1632.350000
+        y = 708.600000
+    }
+
+    city = {
+        x = 1627.400000
+        y = 708.750000
     }
 
     factory = {
-        x = 999.000000
-        y = 2147.000000
+        x = 1630.250000
+        y = 710.950000
+    }
+
+    building_construction = {
+        x = 1635.000000
+        y = 707.800000
+    }
+
+    military_construction = {
+        x = 1621.800000
+        y = 708.050000
     }
 
     building_position = {
@@ -463,14 +473,6 @@
         railroad = {
             x = 1011.000000
             y = 2129.000000
-        }
-
-    }
-
-    spawn_railway_track = {
-        {
-            x = 969.000000
-            y = 2124.000000
         }
 
     }
