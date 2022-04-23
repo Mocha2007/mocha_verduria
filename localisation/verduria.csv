@@ -8,6 +8,7 @@ eretald;Eretald;Eretald;Eretald;;Eretald;;;;;;;;;x
 eretaldan;Eretaldan;Eretaldien;Eretaldisch;;Eretaldiano;;;;;;;;;x
 lebiscuri;Lebiscuri;Lebiscuri;Lebiscuri;;Lebiscuri;;;;;;;;;x
 sea;Sea;La Mer;Meer;;El Mar;;;;;;;;;x
+somoyi;Somoyi-Metelyi;Somoyi-Metelyi;Somoyi-Metelyi;;Somoyi-Metelyi;;;;;;;;;x
 verdurian;Verdurian;Verdurien;Verdurisch;;Verduriano;;;;;;;;;x
 DHE;Dheknam;Dheknam;Dheknam;;Dheknam;;;;;;;;;x
 VER;Verduria;Verduria;Verduria;;Verduria;;;;;;;;;x
@@ -98,3 +99,13 @@ PROV81;TODO_ERETALD;fr_unk;de_unk;;es_unk;;;;;;;;;x
 PROV82;TODO_ERETALD;fr_unk;de_unk;;es_unk;;;;;;;;;x
 PROV83;TODO_ERETALD;fr_unk;de_unk;;es_unk;;;;;;;;;x
 END_OF_ERETALD;;;;;;;;;;;;;;x
+PROV84;TODO_SOMOYI;fr_unk;de_unk;;es_unk;;;;;;;;;x
+PROV85;TODO_SOMOYI;fr_unk;de_unk;;es_unk;;;;;;;;;x
+PROV86;TODO_SOMOYI;fr_unk;de_unk;;es_unk;;;;;;;;;x
+PROV87;TODO_SOMOYI;fr_unk;de_unk;;es_unk;;;;;;;;;x
+PROV88;TODO_SOMOYI;fr_unk;de_unk;;es_unk;;;;;;;;;x
+PROV89;TODO_SOMOYI;fr_unk;de_unk;;es_unk;;;;;;;;;x
+PROV90;TODO_SOMOYI;fr_unk;de_unk;;es_unk;;;;;;;;;x
+PROV91;TODO_SOMOYI;fr_unk;de_unk;;es_unk;;;;;;;;;x
+PROV92;TODO_SOMOYI;fr_unk;de_unk;;es_unk;;;;;;;;;x
+END_OF_SOMOYI;;;;;;;;;;;;;;x
