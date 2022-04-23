@@ -99,7 +99,8 @@ jungle = {
 
 # Bsh
 semi_arid_climate = {
-
+	# "Quebec"
+	102 103 104 105 106 107 108
 }
 
 # Bsk

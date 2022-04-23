@@ -17,6 +17,8 @@ erelae = {
 		# Luduyn
 		93 94 95 96 97 98 99
 		100 101
+		# "Quebec"
+		102 103 104 105 106 107 108
 	}
 	assimilation_rate = -0.25
 }

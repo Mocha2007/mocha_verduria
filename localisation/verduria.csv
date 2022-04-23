@@ -6,8 +6,10 @@ dheknam;Dhekhnam;Dhekhnam;Dhekhnam;;Dhekhnam;;;;;;;;;x
 erelae;Ereláe;Ereláe;Ereláe;;Ereláe;;;;;;;;;x
 eretald;Eretald;Eretald;Eretald;;Eretald;;;;;;;;;x
 eretaldan;Eretaldan;Eretaldien;Eretaldisch;;Eretaldiano;;;;;;;;;x
+kebri;Kebri;Kebri;Kebri;;Kebri;;;;;;;;;x
 lebiscuri;Lebiscuri;Lebiscuri;Lebiscuri;;Lebiscuri;;;;;;;;;x
 luduyn;Luduyn;Luduyn;Luduyn;;Luduyn;;;;;;;;;x
+quebec;Quebec;Quebec;Quebec;;Quebec;;;;;;;;;x
 sea;Sea;La Mer;Meer;;El Mar;;;;;;;;;x
 somoyi;Somoyi-Metelyi;Somoyi-Metelyi;Somoyi-Metelyi;;Somoyi-Metelyi;;;;;;;;;x
 verdurian;Verdurian;Verdurien;Verdurisch;;Verduriano;;;;;;;;;x
@@ -121,3 +123,10 @@ PROV99;Naen;fr_unk;de_unk;;es_unk;;;;;;;;;x
 PROV100;Gurdago;fr_unk;de_unk;;es_unk;;;;;;;;;x
 PROV101;Gunik;fr_unk;de_unk;;es_unk;;;;;;;;;x
 END_OF_LUDUYN;;;;;;;;;;;;;;x
+PROV102;Verdurian Northern Quebec;fr_unk;de_unk;;es_unk;;;;;;;;;x
+PROV103;Irqaraus;fr_unk;de_unk;;es_unk;;;;;;;;;x
+PROV104;Iliu;fr_unk;de_unk;;es_unk;;;;;;;;;x
+PROV105;Icëlani;fr_unk;de_unk;;es_unk;;;;;;;;;x
+PROV106;Southern Quebec;fr_unk;de_unk;;es_unk;;;;;;;;;x
+PROV107;Kebri Quebec;fr_unk;de_unk;;es_unk;;;;;;;;;x
+PROV108;Verdurian Southern Quebec;fr_unk;de_unk;;es_unk;;;;;;;;;x
