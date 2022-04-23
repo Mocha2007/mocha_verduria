@@ -57,5 +57,5 @@ arcel = {
 # I am considering
 # arcel = n. america
 # curym = s. america
-# lebiscuri = oceania
+# lebiscuri = lebiscuri
 # erelae = eurasia

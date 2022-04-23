@@ -1,5 +1,0 @@
-owner = DHE
-controller = DHE
-add_core = DHE
-trade_goods = fish
-life_rating = 35

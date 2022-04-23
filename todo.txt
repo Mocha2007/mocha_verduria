@@ -43,3 +43,4 @@ potential issues for why the crash happens:
 
 FORGOTTEN:
 	- I forgot Azgami between Erenat and Ismahi on the coast of Eretald
+	- fix tech years

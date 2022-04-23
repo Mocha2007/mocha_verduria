@@ -1,0 +1,5 @@
+owner = KEB
+controller = KEB
+add_core = KEB
+trade_goods = fish
+life_rating = 35
