@@ -26,8 +26,8 @@ VER;Verduria;Verduria;Verduria;;Verduria;;;;;;;;;x
 STATE_1;West Ereláe;Ereláe Occidentale;West Ereláe;;Ereláe Occidental;;;;;;;;;x
 STATE_2;East Ereláe;Ereláe Oriente;Ost Ereláe;;Ereláe Oriente;;;;;;;;;x
 PROV1;Bekkai;fr_unk;de_unk;;es_unk;;;;;;;;;x
-PROV2;East Nan;fr_unk;de_unk;;es_unk;;;;;;;;;x
-PROV3;West Nan;fr_unk;de_unk;;es_unk;;;;;;;;;x
+PROV2;Nan;fr_unk;de_unk;;es_unk;;;;;;;;;x
+PROV3;Nan Jungle;fr_unk;de_unk;;es_unk;;;;;;;;;x
 PROV4;South Vipodoh;fr_unk;de_unk;;es_unk;;;;;;;;;x
 PROV5;Rau;fr_unk;de_unk;;es_unk;;;;;;;;;x
 PROV6;Lower Jagai;fr_unk;de_unk;;es_unk;;;;;;;;;x
@@ -174,3 +174,4 @@ PROV138;Lower Téllinor;fr_unk;de_unk;;es_unk;;;;;;;;;x
 PROV139;West Bekkai;fr_unk;de_unk;;es_unk;;;;;;;;;x
 PROV140;Mefites;fr_unk;de_unk;;es_unk;;;;;;;;;x
 PROV141;Bbonyó;fr_unk;de_unk;;es_unk;;;;;;;;;x
+PROV142;Alfonine Coast;fr_unk;de_unk;;es_unk;;;;;;;;;x
