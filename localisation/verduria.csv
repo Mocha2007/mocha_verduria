@@ -21,7 +21,7 @@ PROV5;Rau;fr_unk;de_unk;;es_unk;;;;;;;;;x
 PROV6;Jagai;fr_unk;de_unk;;es_unk;;;;;;;;;x
 PROV7;Gering;fr_unk;de_unk;;es_unk;;;;;;;;;x
 PROV8;East Ereláe;fr_unk;de_unk;;es_unk;;;;;;;;;x
-PROV9;Verduria;fr_unk;de_unk;;es_unk;;;;;;;;;x
+PROV9;Verdúria;fr_unk;de_unk;;es_unk;;;;;;;;;x
 PROV10;Xengiman;fr_unk;de_unk;;es_unk;;;;;;;;;x
 PROV11;Flora;fr_unk;de_unk;;es_unk;;;;;;;;;x
 PROV12;Kebri;fr_unk;de_unk;;es_unk;;;;;;;;;x
@@ -58,16 +58,17 @@ PROV42;Sarnáe;fr_unk;de_unk;;es_unk;;;;;;;;;x
 PROV43;Viseker;fr_unk;de_unk;;es_unk;;;;;;;;;x
 PROV44;Tyellakh;fr_unk;de_unk;;es_unk;;;;;;;;;x
 PROV45;Carhinnia;fr_unk;de_unk;;es_unk;;;;;;;;;x
-PROV46;TODO_ERETALD;fr_unk;de_unk;;es_unk;;;;;;;;;x
-PROV47;TODO_ERETALD;fr_unk;de_unk;;es_unk;;;;;;;;;x
-PROV48;TODO_ERETALD;fr_unk;de_unk;;es_unk;;;;;;;;;x
-PROV49;TODO_ERETALD;fr_unk;de_unk;;es_unk;;;;;;;;;x
-PROV50;TODO_ERETALD;fr_unk;de_unk;;es_unk;;;;;;;;;x
-PROV51;TODO_ERETALD;fr_unk;de_unk;;es_unk;;;;;;;;;x
-PROV52;TODO_ERETALD;fr_unk;de_unk;;es_unk;;;;;;;;;x
-PROV53;TODO_ERETALD;fr_unk;de_unk;;es_unk;;;;;;;;;x
-PROV54;TODO_ERETALD;fr_unk;de_unk;;es_unk;;;;;;;;;x
-PROV55;TODO_ERETALD;fr_unk;de_unk;;es_unk;;;;;;;;;x
+START_OF_ERETALD;;;;;;;;;;;;;;x
+PROV46;Célenor;fr_unk;de_unk;;es_unk;;;;;;;;;x
+PROV47;Barakhún;fr_unk;de_unk;;es_unk;;;;;;;;;x
+PROV48;Mútkün;fr_unk;de_unk;;es_unk;;;;;;;;;x
+PROV49;Hroth;fr_unk;de_unk;;es_unk;;;;;;;;;x
+PROV50;Obenzaya;fr_unk;de_unk;;es_unk;;;;;;;;;x
+PROV51;Benécia;fr_unk;de_unk;;es_unk;;;;;;;;;x
+PROV52;Peleu;fr_unk;de_unk;;es_unk;;;;;;;;;x
+PROV53;Bešbalic;fr_unk;de_unk;;es_unk;;;;;;;;;x
+PROV54;Pakšohan;fr_unk;de_unk;;es_unk;;;;;;;;;x
+PROV55;Deštai;fr_unk;de_unk;;es_unk;;;;;;;;;x
 PROV56;TODO_ERETALD;fr_unk;de_unk;;es_unk;;;;;;;;;x
 PROV57;TODO_ERETALD;fr_unk;de_unk;;es_unk;;;;;;;;;x
 PROV58;TODO_ERETALD;fr_unk;de_unk;;es_unk;;;;;;;;;x
@@ -96,3 +97,4 @@ PROV80;TODO_ERETALD;fr_unk;de_unk;;es_unk;;;;;;;;;x
 PROV81;TODO_ERETALD;fr_unk;de_unk;;es_unk;;;;;;;;;x
 PROV82;TODO_ERETALD;fr_unk;de_unk;;es_unk;;;;;;;;;x
 PROV83;TODO_ERETALD;fr_unk;de_unk;;es_unk;;;;;;;;;x
+END_OF_ERETALD;;;;;;;;;;;;;;x
