@@ -1,7 +1,7 @@
 # Dheknam
 14 = {
 	farmers = {
-		culture = dheknam
+		culture = dheknami
 		religion = animist
 		size = 15000
 	}
