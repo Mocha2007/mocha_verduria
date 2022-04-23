@@ -36,9 +36,8 @@ metaiun = {
 	kebri = { 
 		color = { 0 192 192 }
 
-		first_names = { Teronel }
+		first_names = { Teruzir }
 
 		last_names = { Lucei "multiword surname" }
 	}
-	union = KEB
 }
