@@ -94,7 +94,7 @@ jungle = # A tropical
 
 # A
 jungle = {
-	1 2 3 135
+	1 2 3 135 139 140 141
 }
 
 # Bsh

@@ -1,5 +1,9 @@
 # Bear in mind that the syntax of this file makes the first province number within the brackets is the state capital. I know, it's tempting to put them in numerical order.
 
+bekkai = {
+	1 139 140 141
+}
+
 dheknam = {
 	14 42 43 44 45
 }
@@ -89,5 +93,6 @@ erelae = {
 	100 101 102 103 104 105 106 107 108 109
 	110 111 112 113 114 115 116 117 118 119
 	120 121 122 123 124 125 126 127 128 129
-	130 131 132 133 134 135 136 137 138
+	130 131 132 133 134 135 136 137 138 139
+	140 141
 }
