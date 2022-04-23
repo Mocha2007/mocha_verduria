@@ -40,6 +40,7 @@ potential issues for why the crash happens:
 		nope, added REB but still crashes
 	- (try checking what the loading screen says in vanilla vicky when starting a new game)
 		- "Adapting History..." and that's it
+	- I tried using the vanilla map, but the same crash occurs, so I'm 99% sure it's not with the map but with something else
 
 FORGOTTEN:
 	- I forgot Azgami between Erenat and Ismahi on the coast of Eretald
