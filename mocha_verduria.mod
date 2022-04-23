@@ -3,6 +3,7 @@ path = "mod/mocha_verduria"
 user_dir = "verduria"
 # idk if this is necessary but https://github.com/The-Third-Age/TTA-Victoria-2/tree/main/history does it so...
 replace_path = "history/pops/1836.1.1"
+replace_path = "history/pops/1861.4.14"
 replace_path = "history/units"
 replace_path = "history/countries"
 replace_path = "history/diplomacy"
