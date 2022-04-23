@@ -19,5 +19,5 @@ sea province HARD SIZE LIMIT >= 128,678 pixels
 
 remaining land:
 	- MAYBE Xengiman - but doubtful
-	- barbarian plain
+	- MAYBE barbarian plain - but doubtful
 	- West Erelae

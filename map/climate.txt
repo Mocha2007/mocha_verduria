@@ -148,7 +148,7 @@ temperate_drysummer_climate = {
 
 # Df taiga
 cold_humid_climate = {
-	8
+	8 130
 	# luduyn
 	93 94 96 97 99 100
 	# skouras

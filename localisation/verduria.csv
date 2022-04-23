@@ -27,7 +27,7 @@ PROV4;Vipodoh;fr_unk;de_unk;;es_unk;;;;;;;;;x
 PROV5;Rau;fr_unk;de_unk;;es_unk;;;;;;;;;x
 PROV6;Jagai;fr_unk;de_unk;;es_unk;;;;;;;;;x
 PROV7;Gering;fr_unk;de_unk;;es_unk;;;;;;;;;x
-PROV8;Barbarian Plain;fr_unk;de_unk;;es_unk;;;;;;;;;x
+PROV8;East Barbarian Plain;fr_unk;de_unk;;es_unk;;;;;;;;;x
 PROV9;Verdúria;fr_unk;de_unk;;es_unk;;;;;;;;;x
 PROV10;Xengiman;fr_unk;de_unk;;es_unk;;;;;;;;;x
 PROV11;Flora;fr_unk;de_unk;;es_unk;;;;;;;;;x
@@ -157,3 +157,4 @@ END_OF_SKOURAS;;;;;;;;;;;;;;x
 PROV128;Suböyi;fr_unk;de_unk;;es_unk;;;;;;;;;x
 PROV129;Leru;fr_unk;de_unk;;es_unk;;;;;;;;;x
 END_OF_EXTRA_SOMOYI;;;;;;;;;;;;;;x
+PROV130;West Barbarian Plain;fr_unk;de_unk;;es_unk;;;;;;;;;x
