@@ -1,126 +1,29 @@
-# - Climate regions according to the Köppen climate classification
-# - <climate region> = <notation> <attributes> <possible locations>
-# - Info and formula (in English): https://www.britannica.com/science/Koppen-climate-classification
-
-# - Resources on agricultural efficiency: http://sites.tufts.edu/willmasters/files/2010/06/MastersAndWeibe-ClimateAndAgProductivity.pdf
-# - efficiency and sizes are estimates here (not much info on ecology of ME avaiable, none in terms of numbers)
-# - https://decolonialatlas.wordpress.com/2015/03/11/global-agriculture-where-we-grow-what-we-grow-and-how-we-grow/
-
-# - http://www.zompist.com/Almea-climate-sm.jpg
-
-arctic_polar_climate = # EF polar regions
-{
-	farm_rgo_size = -0.45
-	farm_rgo_eff = -0.98
-	mine_rgo_size = -0.8
-	mine_rgo_eff = -0.6
-}
-
-cold_highlands_climate = # Ds warm highland
-{
-	farm_rgo_size = -0.1
-	farm_rgo_eff = -0.05
-	mine_rgo_size = 0.3
-	mine_rgo_eff = 0.2
-}
-
-cold_humid_climate = # Df cold temperate humid
-{
-	farm_rgo_size = 0.2
-	farm_rgo_eff = 0.15
-	mine_rgo_size = 0.2
-	mine_rgo_eff = 0.1
-}
-
-temperate_oceanic_climate = # Cfb/Cfc temperate maritime
-{
-	farm_rgo_size = 0.4
-	farm_rgo_eff = 0.25
-	mine_rgo_size = 0.2
-	mine_rgo_eff = 0.1
-}
-
-temperate_drysummer_climate = # Cs warm dry subtropical
-{
-	farm_rgo_size = 0.15
-	farm_rgo_eff = 0.05
-	mine_rgo_size = 0.1
-	mine_rgo_eff = 0.1
-}
-
-temperate_subtropical_climate = # Cfa warm temperate humid subtropical
-{
-	farm_rgo_size = 0.5
-	farm_rgo_eff = 0.3
-	mine_rgo_size = 0.05
-	mine_rgo_eff = 0.15
-}
-
-arid_cold_climate = # Bsk Cold Deserts
-{
-	farm_rgo_size = -0.45
-	farm_rgo_eff = -0.5
-	mine_rgo_size = -0.3
-	mine_rgo_eff = -0.2
-}
-
-arid_climate = # Bwh Hot Deserts
-{
-	farm_rgo_size = -0.45
-	farm_rgo_eff = -0.95
-	mine_rgo_size = -0.3
-	mine_rgo_eff = -0.2
-	max_attrition = 5
-}
-
-semi_arid_climate = # Bsh Hot Steppes
-{
-	farm_rgo_size = -0.2
-	farm_rgo_eff = -0.4
-	mine_rgo_size = -0.05
-	mine_rgo_eff = -0.1
-	max_attrition = 3
-}
-
-# todo - just a dupe of semi_arid_climate
-jungle = # A tropical
-{
-	farm_rgo_size = 0.5
-	farm_rgo_eff = 0.3
-	mine_rgo_size = -0.05
-	mine_rgo_eff = -0.1
-	max_attrition = 3
-}
-
-# A
-jungle = {
+#Example: Large parts of Africa and south east Asia
+tropical = {
 	1 2 3 5 135 139
 	140 141 143 144 145 146 147 148
 }
 
-# Bsh
-semi_arid_climate = {
+arid = {
 	# "Quebec"
 	102 103 104 105 106 107 108
 	142
-}
-
-# Bsk
-arid_cold_climate = {
 	4
 	# Kara Desert in Eretald
 	79
 	# North Gering
 	131 132
-}
-
-# Bwh Hot Desert
-arid_climate = {
+	# ??? todo label this
 	136 137 138
 }
 
-# Cfa
-temperate_subtropical_climate = {
+arctic = {
+	# luduyn
+	99 100
+}
+
+#Example: Most of Europe north of med.
+mild_winter = {
 	9 11 12 14 39
 	40 41 42 43 44 45
 	# Eretald (excl. verduria city)
@@ -133,10 +36,6 @@ temperate_subtropical_climate = {
 	84 85 86 87 88 89
 	90 91 92
 	128 129
-}
-
-# Cfb/Cfc
-temperate_oceanic_climate = {
 	10
 	# luduyn
 	95 98 101
@@ -149,13 +48,8 @@ temperate_oceanic_climate = {
 	133 134
 }
 
-# Cs
-temperate_drysummer_climate = {
-	6
-}
-
-# Df taiga
-cold_humid_climate = {
+#Example: Inland Europe & Scandinavia
+normal_winter = {
 	7 8 130
 	# luduyn
 	93 94 96 97
@@ -163,13 +57,30 @@ cold_humid_climate = {
 	13 117
 }
 
-# Ds
-cold_highlands_climate = {
+#Example: Russia & Lappland
+severe_winter = {
 	15 34 35 36 37 38
 }
 
-# EF
-arctic_polar_climate = {
-	# luduyn
-	99 100
+impassable = {
+	2426 1173 1779 1781 1782 1783 1784 1785 1786 1787 1788 1789 1790 1791 1793 1794 1795 1796 1797 1798 1799 1801 1802 1803 1804 1805
+	1806 1807 1808 1810 1811 1812 1814 1950 2194 2200 2251 2334 2608 2740 2425 2936 3415 3416 3417 3418 3419 3590 3591 3592 3593 3594 3595 
+	3596 3597 3598 3599 3620 3621 3622 3623 3624 3625 3626 3427 3628 3629 3630 3631 3632 3633 3634 3635 3636 3437 3638 3639 4146
+	4153 4154 4155 4156 4157 4159 4160 4161 4162 4167 4168 4169 4170 4172 4177 4178 4179 4276 4321 4322 4328 4400 4401 4402 4403
+	4522 2129 4569
+	4657
 }
+
+mild_monsoon = {
+	# todo
+}
+
+normal_monsoon = {
+	# todo
+}
+
+severe_monsoon = {
+	# todo
+}
+
+equator_y_on_province_image = 1080
