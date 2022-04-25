@@ -4,7 +4,7 @@ bookmark =
 	desc = "GC_DESC"
 	date = 3480.1.1
 	
-	center = VER
+	center = 9
 	default = yes
 	
 	country = DHE
