@@ -3,8 +3,15 @@
 # Special countries...
 REB 	= "countries/rebels.txt"
 
-# Almea (Alphabetical)
+# Majors (Alphabetical)
 DHE		= "countries/Dhekhnam.txt"
 FLO		= "countries/Flora.txt"
 KEB		= "countries/Kebri.txt"
 VER		= "countries/Verduria.txt"
+
+# Eretald Minors
+
+BAR		= "countries/Barakhun.txt"
+HRO		= "countries/Hroth.txt"
+MUT		= "countries/Mutkun.txt"
+VIM		= "countries/Viminia.txt"

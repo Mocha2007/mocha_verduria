@@ -1,2 +1,5 @@
+owner = VIM
+controller = VIM
+add_core = VIM
 trade_goods = cotton
 life_rating = 35
