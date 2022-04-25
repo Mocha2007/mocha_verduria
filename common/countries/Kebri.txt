@@ -1,5 +1,5 @@
 color = { 147  206  200 }
-graphical_culture = BritishGC
+graphical_culture = westerngfx
 
 
 party = {
