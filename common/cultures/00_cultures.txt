@@ -1,0 +1,44 @@
+erelaean = {
+	unit = westerngfx
+	dhekhnami = {
+		primary = DHE
+		male_names = { Teronel }
+
+		female_names = { Teronel }
+
+		dynasty_names = { Lucei "multiword surname" }
+	}
+	verdurian = {
+		primary = VER
+		male_names = { Teronel }
+
+		female_names = { Teronel }
+
+		dynasty_names = { Lucei "multiword surname" }
+	}
+}
+
+flaidish = {
+	unit = westerngfx
+	flaidish = {
+		primary = FLO
+		male_names = { Teronel }
+
+		female_names = { Teronel }
+
+		dynasty_names = { Lucei "multiword surname" }
+	}
+	union = FLO
+}
+
+metaiun = {
+	unit = westerngfx
+	kebri = {
+		primary = KEB
+		male_names = { Teruzir }
+
+		female_names = { Teronel }
+
+		dynasty_names = { Lucei "multiword surname" }
+	}
+}
