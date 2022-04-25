@@ -5,6 +5,8 @@ curym;Curym;Curym;Curym;;Curym;;;;;;;;;x
 cuzeian;Cuzeian;Cuzeien;Cuzeisch;;Cuzeiano;;;;;;;;;x
 dhekhnam;Dhekhnam;Dhekhnam;Dhekhnam;;Dhekhnam;;;;;;;;;x
 dhekhnami;Dhekhnami;Dhekhnami;Dhekhnami;;Dhekhnami;;;;;;;;;x
+east_erelae;East Ereláe;Ereláe Oriente;Ost Ereláe;;Ereláe Oriente;;;;;;;;;x
+east_erelae_name;East Ereláe;Ereláe Oriente;Ost Ereláe;;Ereláe Oriente;;;;;;;;;x
 erelae;Ereláe;Ereláe;Ereláe;;Ereláe;;;;;;;;;x
 erelaean;Ereláean;Ereláeien;Ereláeisch;;Ereláeiano;;;;;;;;;x
 eretald;Eretald;Eretald;Eretald;;Eretald;;;;;;;;;x
@@ -27,6 +29,8 @@ somoyi;Somoyi-Metelyi;Somoyi-Metelyi;Somoyi-Metelyi;;Somoyi-Metelyi;;;;;;;;;x
 tellinor;Téllinor;Téllinor;Téllinor;;Téllinor;;;;;;;;;x
 verdurian;Verdurian;Verdurien;Verdurisch;;Verduriano;;;;;;;;;x
 vipodoh;Vipodoh;Vipodoh;Vipodoh;;Vipodoh;;;;;;;;;x
+west_erelae;West Ereláe;Ereláe Occidentale;West Ereláe;;Ereláe Occidental;;;;;;;;;x
+west_erelae_name;West Ereláe;Ereláe Occidentale;West Ereláe;;Ereláe Occidental;;;;;;;;;x
 BAR;Barakhún;Barakhún;Barakhún;;Barakhún;;;;;;;;;x
 DHE;Dhekhnam;Dhekhnam;Dhekhnam;;Dhekhnam;;;;;;;;;x
 FLO;Flora;Flora;Flora;;Flora;;;;;;;;;x
@@ -43,8 +47,6 @@ KEB_ADJ;Kebreni;Kebri;Kebri;;Kebri;;;;;;;;;x
 MUT_ADJ;Mútkün;Mútkün;Mútkün;;Mútkün;;;;;;;;;x
 VER_ADJ;Verdúrian;Verdúria;Verdúria;;Verdúria;;;;;;;;;x
 VIM_ADJ;Vimínian;Vimínia;Vimínia;;Vimínia;;;;;;;;;x
-STATE_1;West Ereláe;Ereláe Occidentale;West Ereláe;;Ereláe Occidental;;;;;;;;;x
-STATE_2;East Ereláe;Ereláe Oriente;Ost Ereláe;;Ereláe Oriente;;;;;;;;;x
 PROV1;Bekkai;fr_unk;de_unk;;es_unk;;;;;;;;;x
 PROV2;Nan;fr_unk;de_unk;;es_unk;;;;;;;;;x
 PROV3;Rau 1;fr_unk;de_unk;;es_unk;;;;;;;;;x
