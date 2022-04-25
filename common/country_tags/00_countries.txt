@@ -1,0 +1,16 @@
+# Special countries..
+REB = "countries/Rebels.txt"
+PIR = "countries/Pirates.txt"
+NAT = "countries/Natives.txt"
+
+# Majors
+DHE	= "countries/Dhekhnam.txt"
+FLO	= "countries/Flora.txt"
+KEB	= "countries/Kebri.txt"
+VER	= "countries/Verduria.txt"
+
+# Eretald Minors
+BAR	= "countries/Barakhun.txt"
+HRO	= "countries/Hroth.txt"
+MUT	= "countries/Mutkun.txt"
+VIM	= "countries/Viminia.txt"
