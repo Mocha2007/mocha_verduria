@@ -2,4 +2,3 @@ owner = BAR
 controller = BAR
 add_core = BAR
 trade_goods = cotton
-life_rating = 35

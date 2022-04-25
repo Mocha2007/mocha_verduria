@@ -2,4 +2,3 @@ owner = KEB
 controller = KEB
 add_core = KEB
 trade_goods = wool
-life_rating = 25

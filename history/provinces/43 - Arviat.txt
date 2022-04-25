@@ -2,4 +2,3 @@ owner = DHE
 controller = DHE
 add_core = DHE
 trade_goods = grain
-life_rating = 35

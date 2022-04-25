@@ -2,4 +2,3 @@ owner = HRO
 controller = HRO
 add_core = HRO
 trade_goods = cotton
-life_rating = 35
