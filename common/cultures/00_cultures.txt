@@ -1,5 +1,5 @@
 erelaean = {
-	unit = westerngfx
+	graphical_culture = westerngfx
 	dhekhnami = {
 		primary = DHE
 		male_names = { Teronel }
@@ -19,7 +19,7 @@ erelaean = {
 }
 
 flaidish = {
-	unit = westerngfx
+	graphical_culture = westerngfx
 	flaidish = {
 		primary = FLO
 		male_names = { Teronel }
@@ -32,7 +32,7 @@ flaidish = {
 }
 
 metaiun = {
-	unit = westerngfx
+	graphical_culture = westerngfx
 	kebri = {
 		primary = KEB
 		male_names = { Teruzir }
