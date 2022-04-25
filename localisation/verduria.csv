@@ -35,6 +35,14 @@ KEB;Kebri;Kebri;Kebri;;Kebri;;;;;;;;;x
 MUT;Mútkün;Mútkün;Mútkün;;Mútkün;;;;;;;;;x
 VER;Verdúria;Verdúria;Verdúria;;Verdúria;;;;;;;;;x
 VIM;Vimínia;Vimínia;Vimínia;;Vimínia;;;;;;;;;x
+BAR_ADJ;Barakhún;Barakhún;Barakhún;;Barakhún;;;;;;;;;x
+DHE_ADJ;Dhekhnami;Dhekhnam;Dhekhnam;;Dhekhnam;;;;;;;;;x
+FLO_ADJ;Flaidish;Flora;Flora;;Flora;;;;;;;;;x
+HRO_ADJ;Hroth;Hroth;Hroth;;Hroth;;;;;;;;;x
+KEB_ADJ;Kebreni;Kebri;Kebri;;Kebri;;;;;;;;;x
+MUT_ADJ;Mútkün;Mútkün;Mútkün;;Mútkün;;;;;;;;;x
+VER_ADJ;Verdúrian;Verdúria;Verdúria;;Verdúria;;;;;;;;;x
+VIM_ADJ;Vimínian;Vimínia;Vimínia;;Vimínia;;;;;;;;;x
 STATE_1;West Ereláe;Ereláe Occidentale;West Ereláe;;Ereláe Occidental;;;;;;;;;x
 STATE_2;East Ereláe;Ereláe Oriente;Ost Ereláe;;Ereláe Oriente;;;;;;;;;x
 PROV1;Bekkai;fr_unk;de_unk;;es_unk;;;;;;;;;x
