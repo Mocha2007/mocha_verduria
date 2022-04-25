@@ -1,2 +1,2 @@
-#From;To;Type;Through;Data;Comment
+From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
 # this file is for straits, canals, and impassable regions - NOT regular adjacencies
