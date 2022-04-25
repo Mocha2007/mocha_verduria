@@ -7,21 +7,25 @@ random_new_world_region = {
 
 # East Erelae
 east_erelae = {
-	dhekhnam
-	eretald
-	luduyn
-	quebec
-	skouras
-	somoyi
+	areas = {
+		dhekhnam
+		eretald
+		luduyn
+		quebec
+		skouras
+		somoyi
+	}
 }
 
 # West Erelae
 west_erelae = {
-	bekkai
-	gering
-	feinae
-	jagai
-	rau
-	tellinor
-	vipodoh
+	areas = {
+		bekkai
+		gering
+		feinae
+		jagai
+		rau
+		tellinor
+		vipodoh
+	}
 }
