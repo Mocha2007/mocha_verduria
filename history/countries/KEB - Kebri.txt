@@ -2,6 +2,6 @@ government = monarchy
 government_rank = 1
 mercantilism = 25
 technology_group = western
-religion = animist
+religion = animism
 primary_culture = verdurian
 capital = 47
