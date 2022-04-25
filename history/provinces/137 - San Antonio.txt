@@ -1,1 +1,1 @@
-trade_goods = timber
+trade_goods = naval_supplies
