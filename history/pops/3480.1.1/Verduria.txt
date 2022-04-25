@@ -1,8 +1,0 @@
-# Eretald
-9 = {
-	farmers = {
-		culture = verdurian
-		religion = animist
-		size = 15000
-	}
-}
