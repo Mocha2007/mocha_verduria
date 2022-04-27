@@ -7,7 +7,7 @@ trade_node_dhekhnam = {
 	outgoing = {
 		name = "trade_node_flora"
 		path = {
-			1273 1202
+			43 42 34
 		}
 		control = { # ??? idk what this does
 			3351.000000 607.000000 3388.000000 610.000000 3416.000000 580.000000 
@@ -21,10 +21,21 @@ trade_node_dhekhnam = {
 trade_node_flora = {
 	location = 12
 	color = {
-		57 168 220 
+		220 168 220 
 	}
 	inland = yes
 	members = {
 		12 34 81
+	}
+}
+
+trade_node_verduria = {
+	location = 9
+	color = {
+		57 168 168 
+	}
+	inland = yes
+	members = {
+		9 62 67 78 79 80 82
 	}
 }
