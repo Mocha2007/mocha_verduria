@@ -38,6 +38,10 @@ curym = {
 arcel = {
 }
 
+island_check_provinces = {
+	
+}
+
 # Used for RNW
 new_world = {
 }
