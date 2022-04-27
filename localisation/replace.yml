@@ -1,0 +1,5 @@
+﻿l_english:
+  # UTF-8 with BOM
+  GC_NAME: "Rise of Eretald"
+  GC_DESC: "todo new GC_DESC"
+  WORLD_YEAR: "Almea in the year $YEAR$"
