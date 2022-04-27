@@ -11,10 +11,8 @@ replace text/symbols in load_5.dds with almean ones
 
 fix party start/end dates in common/countries/...txt
 
-land province HARD SIZE LIMIT = 20,000 pixels
-	I will need to create at least 23 provinces for west erelae
-sea province HARD SIZE LIMIT >= 128,678 pixels
-	TTA has a sea tile this size without issue
+land province HARD SIZE LIMIT => 114,662 pixels (Siberia in vanilla)
+sea province HARD SIZE LIMIT >= 100,294 pixels (Pacific in vanilla)
 
 remaining land:
 	- MAYBE Xengiman - but doubtful
