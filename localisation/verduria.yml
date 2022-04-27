@@ -1,6 +1,7 @@
 ﻿l_english:
   # UTF-8 with BOM
   arcel: "Arcél"
+  barbarian_plain: "Barbarian Plain"
   bekkai: "Bekkai"
   cadhinoran: "Cadhinoran"
   curym: "Curym"
@@ -24,6 +25,10 @@
   lebiscuri: "Lebiscuri"
   luduyn: "Luduyn"
   metaiun: "Metaiun"
+  nan: "Nan"
+  oceans: "Oceans"
+  oceans_adj: "Oceanic"
+  oceans_name: "Oceans"
   quebec: "Irqaraumia"
   rau: "Rau"
   sea: "Sea"
@@ -35,6 +40,8 @@
   west_erelae: "West Ereláe"
   west_erelae_adj: "West Ereláean"
   west_erelae_name: "West Ereláe"
+  world_ocean: "World Ocean"
+  xengiman: "Xengiman"
   BAR: "Barakhún"
   DHE: "Dhekhnam"
   FLO: "Flora"
@@ -206,4 +213,4 @@
   PROV145: "Rau 5"
   PROV146: "Rau 6"
   PROV147: "Rau 7"
-  PROV148: "Rau 8
+  PROV148: "Rau 8"

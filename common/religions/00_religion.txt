@@ -43,6 +43,5 @@ pagan = {
 	cadhinoran = {
 		icon = 8
 		color = { 204 0 0 }
-		pagan = yes
 	}
 }
