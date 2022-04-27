@@ -6,9 +6,9 @@ world_ocean = {
 	30 31 32 33
 }
 
-lakes = {
-	21 22
-}
+# lakes = {
+#	21 22
+# }
 
 barbarian_plain = {
 	8 130

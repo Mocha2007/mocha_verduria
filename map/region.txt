@@ -32,3 +32,9 @@ west_erelae = {
 		vipodoh
 	}
 }
+
+oceans = {
+	areas = {
+		world_ocean
+	}
+}
