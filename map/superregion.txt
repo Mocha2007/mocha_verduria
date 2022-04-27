@@ -7,3 +7,7 @@ erelae_superregion = {
 
 new_world_superregion = {
 }
+
+ocean_superregion = {
+	oceans
+}
