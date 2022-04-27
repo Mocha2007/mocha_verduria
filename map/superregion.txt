@@ -1,1 +1,6 @@
 # A region can only belong to one super region.
+
+erelae_superregion = {
+	east_erelae
+	west_erelae
+}
