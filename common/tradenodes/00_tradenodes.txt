@@ -1,0 +1,30 @@
+trade_node_dhekhnam = {
+	location = 14
+	color = {
+		57 168 220 
+	}
+	inland = yes
+	outgoing = {
+		name = "trade_node_flora"
+		path = {
+			1273 1202
+		}
+		control = { # ??? idk what this does
+			3351.000000 607.000000 3388.000000 610.000000 3416.000000 580.000000 
+		}
+	}
+	members = {
+		14 42 43 44 45
+	}
+}
+
+trade_node_flora = {
+	location = 12
+	color = {
+		57 168 220 
+	}
+	inland = yes
+	members = {
+		12 34 81
+	}
+}
