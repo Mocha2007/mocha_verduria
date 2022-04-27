@@ -191,3 +191,34 @@ trade_node_feinae = {
 		109 110 111 112 113
 	}
 }
+
+trade_node_luduyn = {
+	location = 101
+	color = {
+		160 57 144 
+	}
+	inland = yes
+	outgoing = {
+		name = "trade_node_xengiman"
+		path = {
+			98 95
+		}
+		control = { # ??? idk what this does
+			3351.000000 607.000000 3388.000000 610.000000 3416.000000 580.000000 
+		}
+	}
+	outgoing = {
+		name = "trade_node_ctesifon"
+		path = {
+			97 94 130
+		}
+		control = { # ??? idk what this does
+			3351.000000 607.000000 3388.000000 610.000000 3416.000000 580.000000 
+		}
+	}
+	members = {
+		93 94 96 97 98 99
+		100 101
+		130
+	}
+}
