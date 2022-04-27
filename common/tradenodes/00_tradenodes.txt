@@ -70,3 +70,64 @@ trade_node_ctesifon = {
 		70 71 72 73 74 75 76 77
 	}
 }
+
+trade_node_nan = {
+	location = 2
+	color = {
+		255 168 57 
+	}
+	inland = yes
+	outgoing = {
+		name = "trade_node_flora"
+		path = {
+			18 31
+		}
+		control = { # ??? idk what this does
+			3351.000000 607.000000 3388.000000 610.000000 3416.000000 580.000000 
+		}
+	}
+	outgoing = {
+		name = "trade_node_verduria"
+		path = {
+			142 84 82
+		}
+		control = { # ??? idk what this does
+			3351.000000 607.000000 3388.000000 610.000000 3416.000000 580.000000 
+		}
+	}
+	members = {
+		2 3 5
+		84 85 86 87
+		128 129
+		142 143 144 145 146 147 148
+	}
+}
+
+trade_node_quebec = {
+	location = 105
+	color = {
+		255 57 57 
+	}
+	inland = yes
+	outgoing = {
+		name = "trade_node_flora"
+		path = {
+			27 18 31
+		}
+		control = { # ??? idk what this does
+			3351.000000 607.000000 3388.000000 610.000000 3416.000000 580.000000 
+		}
+	}
+	outgoing = {
+		name = "trade_node_dhekhnam"
+		path = {
+			106 41 45
+		}
+		control = { # ??? idk what this does
+			3351.000000 607.000000 3388.000000 610.000000 3416.000000 580.000000 
+		}
+	}
+	members = {
+		102 103 104 105 106 107 108
+	}
+}
