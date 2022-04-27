@@ -11,6 +11,7 @@ east_erelae = {
 		barbarian_plain
 		dhekhnam
 		eretald
+		feinae
 		luduyn
 		quebec
 		skouras
@@ -24,7 +25,6 @@ west_erelae = {
 	areas = {
 		bekkai
 		gering
-		feinae
 		jagai
 		nan
 		rau

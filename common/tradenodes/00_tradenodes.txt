@@ -127,7 +127,67 @@ trade_node_quebec = {
 			3351.000000 607.000000 3388.000000 610.000000 3416.000000 580.000000 
 		}
 	}
+	outgoing = {
+		name = "trade_node_feinae"
+		path = {
+			106 109
+		}
+		control = { # ??? idk what this does
+			3351.000000 607.000000 3388.000000 610.000000 3416.000000 580.000000 
+		}
+	}
 	members = {
 		102 103 104 105 106 107 108
+	}
+}
+
+trade_node_xengiman = {
+	location = 10
+	color = {
+		255 90 57 
+	}
+	inland = yes
+	outgoing = {
+		name = "trade_node_skouras"
+		path = {
+			116
+		}
+		control = { # ??? idk what this does
+			3351.000000 607.000000 3388.000000 610.000000 3416.000000 580.000000 
+		}
+	}
+	members = {
+		8 10 15 35 95 117
+	}
+}
+
+trade_node_skouras = {
+	location = 13
+	color = {
+		128 144 160
+	}
+	inland = yes
+	members = {
+		13 114 115 116 118 119
+		120 121 122 123 124 125 126 127
+	}
+}
+
+trade_node_feinae = {
+	location = 110
+	color = {
+		57 200 57 
+	}
+	inland = yes
+	outgoing = {
+		name = "trade_node_skouras"
+		path = {
+		}
+		control = { # ??? idk what this does
+			3351.000000 607.000000 3388.000000 610.000000 3416.000000 580.000000 
+		}
+	}
+	members = {
+		109 110 111 112 113
 	}
 }
