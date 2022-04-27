@@ -25,7 +25,7 @@ trade_node_flora = {
 	}
 	inland = yes
 	members = {
-		12 34 81
+		11 12 34 79 80 81
 	}
 }
 
@@ -36,6 +36,35 @@ trade_node_verduria = {
 	}
 	inland = yes
 	members = {
-		9 62 67 78 79 80 82
+		9 48 62 67 78 82 83
+	}
+}
+
+trade_node_ctesifon = {
+	location = 58
+	color = {
+		57 168 57 
+	}
+	inland = yes
+	outgoing = {
+		name = "trade_node_flora"
+		path = {
+			69 66 76 77 79 80 34
+		}
+		control = { # ??? idk what this does
+			3351.000000 607.000000 3388.000000 610.000000 3416.000000 580.000000 
+		}
+	}
+	outgoing = {
+		name = "trade_node_verduria"
+		path = {
+			65 62
+		}
+		control = { # ??? idk what this does
+			3351.000000 607.000000 3388.000000 610.000000 3416.000000 580.000000 
+		}
+	}
+	members = {
+		57 58 60 61 63 64 65 66 68 69
 	}
 }
