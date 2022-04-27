@@ -8,12 +8,14 @@ random_new_world_region = {
 # East Erelae
 east_erelae = {
 	areas = {
+		barbarian_plain
 		dhekhnam
 		eretald
 		luduyn
 		quebec
 		skouras
 		somoyi
+		xengiman
 	}
 }
 
@@ -24,6 +26,7 @@ west_erelae = {
 		gering
 		feinae
 		jagai
+		nan
 		rau
 		tellinor
 		vipodoh

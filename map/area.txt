@@ -1,7 +1,18 @@
 # A province can only belong to one area!
 
-#Sea Areas:
-#No restriction on size.
+world_ocean = {
+	16 17 18 19
+	20 23 24 25 26 27 28 29
+	30 31 32 33
+}
+
+lakes = {
+	21 22
+}
+
+barbarian_plain = {
+	8 130
+}
 
 bekkai = {
 	1 139 140 141
@@ -37,6 +48,10 @@ luduyn = {
 	100 101
 }
 
+nan = {
+	2 142
+}
+
 quebec = {
 	102 103 104 105 106 107 108
 }
@@ -63,4 +78,10 @@ tellinor = {
 
 vipodoh = {
 	4 135 136
+}
+
+xengiman = {
+	10 15
+	35 36 37 38 39
+	40 41
 }
