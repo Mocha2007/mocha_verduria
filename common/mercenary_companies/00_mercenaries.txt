@@ -1,0 +1,397 @@
+# Black Army (Hungary)
+merc_black_army = {
+	regiments_per_development = 0.04
+	cavalry_weight = 0.2
+    artillery_weight = 0.4
+	cavalry_cap = 4
+	home_province = 153
+	sprites = { dlc102_hun_sprite_pack easterngfx_sprite_pack }
+	trigger = {
+		OR = {
+			has_country_modifier = hun_black_army
+			has_reform = black_army_reform
+		}
+	}
+	cost_modifier = 0.75
+	modifier = {
+		discipline = 0.05
+	}
+}
+
+# Black Army Reserves (Hungary)
+merc_black_army_2 = {
+	regiments_per_development = 0.04
+	cavalry_weight = 0.2
+    artillery_weight = 0.4
+	cavalry_cap = 4
+	home_province = 153
+	sprites = { dlc102_hun_sprite_pack easterngfx_sprite_pack }
+	trigger = {
+		has_reform = black_army_reform
+	}
+	cost_modifier = 0.75
+	modifier = {
+		discipline = 0.05
+	}
+}
+
+# Knights Templar
+merc_knights_templar = {
+	regiments_per_development = 0.01
+	home_province = 379
+	cavalry_weight = 0.5
+	sprites = { dlc040_kni_sprite_pack westerngfx_sprite_pack }
+	trigger = {
+		custom_trigger_tooltip = {
+			tooltip = templars_tt
+			has_country_flag = knights_templar_flag
+		}
+		owns = 379
+	}
+	modifier = {
+		cavalry_power = 0.15
+		shock_damage = 0.05
+	}
+	cost_modifier = 0.5
+}
+
+
+
+# Pontifical Swiss Guard
+merc_swiss_guard = {
+    regiments_per_development = 0.02
+	home_province = 166
+	sprites = { dlc029_pap_sprite_pack dlc040_pap_sprite_pack westerngfx_sprite_pack }
+    trigger = { 
+		tag = PAP
+		custom_trigger_tooltip = {
+			tooltip = swiss_guard_activated
+			has_country_flag = enable_swiss_guard
+		}
+	}
+    cost_modifier = 0.5
+	modifier = {
+		discipline = 0.025
+	}
+}
+
+merc_buccaneer_battalion = {
+    regiments_per_development = 0.05
+    home_province = 489 # Tortuga
+    cost_modifier = 0.67
+	sprites = { dlc098_nss_sprite_pack westerngfx_sprite_pack }
+    trigger = {
+		is_random_new_world = no
+		OR = {
+			custom_trigger_tooltip = {
+				tooltip = golden_age_of_piracy_merc_tt
+				has_global_flag = golden_age_of_piracy
+			}
+			exists = TOR
+		}
+		489 = {
+			is_city = yes
+		}
+	}
+	modifier = {
+		discipline = -0.025
+		movement_speed = 0.2
+	}
+}
+
+merc_bandeirantes = {
+    regiments_per_development = 0.05
+    home_province = 766 # Sao Vicente
+    cost_modifier = 0.8
+	sprites = { dlc011_por_sprite_pack dlc042_por_sprite_pack westerngfx_sprite_pack }
+    trigger = {
+		is_random_new_world = no
+		766 = {
+			is_city = yes
+			owner = {
+				OR = {
+					is_colonial_nation = yes
+					is_former_colonial_nation = yes
+				}
+			}
+		}
+		OR = {
+			is_colonial_nation = yes
+			is_former_colonial_nation = yes
+			any_subject_country = {
+				is_colonial_nation = yes
+			}
+		}
+	}
+	modifier = {
+		discipline = -0.025
+		land_attrition = -0.25
+	}
+}
+
+merc_free_company_of_volunteers = {
+    regiments_per_development = 0.03
+    home_province = 4579 # Sayula
+	sprites = { dlc011_spa_sprite_pack westerngfx_sprite_pack }
+	trigger = { 
+		is_random_new_world = no
+		4579 = {
+			is_city = yes
+			owner = {
+				OR = {
+					is_colonial_nation = yes
+					is_former_colonial_nation = yes
+				}
+			}
+		}
+		OR = {
+			is_colonial_nation = yes
+			is_former_colonial_nation = yes
+			any_subject_country = {
+				is_colonial_nation = yes
+			}
+		}
+	}
+    modifier = { }
+}
+
+merc_colonial_rangers = {
+    regiments_per_development = 0.025
+    home_province = 2569 # Eskikewakik, eventually Halifax, Nova Scotia
+    cost_modifier = 1.25
+	artillery_weight = 0.1
+	sprites = { dlc016_eng_sprite_pack westerngfx_sprite_pack }
+	trigger = { 
+		is_random_new_world = no
+		2569 = {
+			is_city = yes
+			owner = {
+				OR = {
+					is_colonial_nation = yes
+					is_former_colonial_nation = yes
+				}
+			}
+		}
+		OR = {
+			is_colonial_nation = yes
+			is_former_colonial_nation = yes
+			any_subject_country = {
+				is_colonial_nation = yes
+			}
+		}
+	}
+    modifier = {
+		movement_speed = 0.1
+        land_morale = 0.1
+	}
+}
+
+merc_independent_cossack_host = {
+    regiments_per_development = 0.05
+    home_province = 283 # Zaporozhia
+	cavalry_weight = 0.4 # lots of cavalry relative to other units
+	artillery_weight = 0 # no artillery
+	cavalry_cap = 6
+	sprites = { dlc047_zaz_sprite_pack easterngfx_sprite_pack }
+	trigger = {
+		OR = {
+			has_estate = estate_cossacks
+			has_reform = cossacks_reform
+			any_neighbor_country = {
+				OR = {
+					has_estate = estate_cossacks
+					has_reform = cossacks_reform
+				}
+			}
+			has_country_modifier = mercenaries_to_the_standard
+			has_country_modifier = glut_of_mercs
+		}
+	}
+    modifier = { }
+}
+
+merc_japanese_volunteers = {
+    regiments_per_development = 0.02
+	cavalry_weight = 0.1
+	artillery_weight = 0.3
+	cavalry_cap = 2
+    home_province = 600
+	sprites = { dlc068_jap_sprite_pack jap_base_sprite_pack }
+    trigger = {
+		mission_completed = mnd_siam_japan
+	}
+	modifier = {
+		infantry_power = 0.1
+        discipline = 0.025
+	}
+}
+
+merc_militant_order_of_saint_joan = {
+    regiments_per_development = 0.025
+    cavalry_weight = 0.1
+    artillery_weight = 0.2
+	cavalry_cap = 2
+    home_province = 184
+	cost_modifier = 0.5
+	sprites = { dlc001_orl_sprite_pack dlc049_FRA_sprite_pack dlc028_fra_sprite_pack dlc054_fra_sprite_pack fra_base_sprite_pack }
+	trigger = {
+		has_country_flag = militant_order_of_saint_joan
+	}
+    modifier = {
+        may_recruit_female_generals = yes
+        female_advisor_chance = 1.0
+        fire_damage = 0.2
+		discipline = 0.05
+    }
+}
+
+merc_oyo_cavalry = {
+	regiments_per_development = 0.04
+	cost_modifier = 0.25
+	cavalry_weight = 1
+	home_province = 1144
+	sprites = { dlc062_ben_sprite_pack africangfx_sprite_pack }
+	trigger = {
+		has_unlocked_merc_company = {
+			merc_company = merc_oyo_cavalry
+		}
+	}
+    modifier = {
+		cavalry_flanking = 0.5
+		cav_to_inf_ratio = 0.5
+		cavalry_power = 0.2
+	}
+}
+
+rnw_modifier_weights = {
+	shock_damage = {
+		min = 0.05
+		max = 0.1
+		weight = 2
+		cost_modifier = 0.3
+	}
+	shock_damage_received = {
+		min = -0.05
+		max = -0.1
+		weight = 1.5
+		cost_modifier = 0.3
+	}
+	fire_damage = {
+		min = 0.05
+		max = 0.1
+		weight = 2
+		cost_modifier = 0.3
+	}
+	fire_damage_received = {
+		min = -0.05
+		max = -0.1
+		weight = 1.5
+		cost_modifier = 0.3
+	}
+	discipline = {
+		min = -0.05
+		max = 0.05
+		weight = 2
+		cost_modifier = 0.3
+	}
+	infantry_power = {
+		min = 0.05
+		max = 0.1
+		weight = 1
+		cost_modifier = 0.2
+		sub_unit = infantry
+	}
+	infantry_fire = {
+		min = 0.05
+		max = 0.2
+		weight = 0.5
+		cost_modifier = 0.1
+		sub_unit = infantry
+	}
+	infantry_shock = {
+		min = 0.05
+		max = 0.2
+		weight = 0.5
+		cost_modifier = 0.1
+		sub_unit = infantry
+	}
+	cavalry_power = {
+		min = 0.05
+		max = 0.1
+		weight = 1
+		cost_modifier = 0.2
+		sub_unit = cavalry
+	}
+	cavalry_fire = {
+		min = 0.05
+		max = 0.2
+		weight = 0.5
+		cost_modifier = 0.1
+		sub_unit = cavalry
+	}
+	cavalry_shock = {
+		min = 0.05
+		max = 0.2
+		weight = 0.5
+		cost_modifier = 0.1
+		sub_unit = cavalry
+	}
+	cavalry_flanking = {
+		min = 0.33
+		max = 1
+		weight = 0.5
+		cost_modifier = 0.1
+		sub_unit = cavalry
+	}
+	artillery_power = {
+		min = 0.05
+		max = 0.1
+		weight = 0.5
+		cost_modifier = 0.2
+		sub_unit = artillery
+	}
+	artillery_fire = {
+		min = 0.05
+		max = 0.2
+		weight = 0.25
+		cost_modifier = 0.1
+		sub_unit = artillery
+	}
+	artillery_shock = {
+		min = 0.05
+		max = 0.2
+		weight = 0.25
+		cost_modifier = 0.1
+		sub_unit = artillery
+	}
+	land_morale = {
+		min = 0.05
+		max = 0.1
+		weight = 2
+		cost_modifier = 0.2
+	}
+	reinforce_speed = {
+		min = -0.2
+		max = 0.2
+		weight = 0.7
+		cost_modifier = 0.1
+	}
+	movement_speed = {
+		min = 0.1
+		max = 0.2
+		weight = 1
+		cost_modifier = 0.1
+	}
+	land_attrition = {
+		min = -0.1
+		max = -0.3
+		weight = 0.5
+		cost_modifier = 0.1
+	}
+	prestige_from_land = {
+		min = 0.1
+		max = 0.3
+		weight = 0.2
+		cost_modifier = 0.15
+	}
+}
