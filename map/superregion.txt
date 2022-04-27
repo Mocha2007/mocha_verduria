@@ -4,3 +4,6 @@ erelae_superregion = {
 	east_erelae
 	west_erelae
 }
+
+new_world_superregion = {
+}
