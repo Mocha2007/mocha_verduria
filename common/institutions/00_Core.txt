@@ -54,8 +54,8 @@ feudalism = {
 					primary_culture = uyghur
 					technology_group = andean
 					technology_group = mesoamerican
-					technology_group = north_american
-					technology_group = south_american
+					technology_group = arceln
+					technology_group = curymn
 					technology_group = sub_saharan
 				}
 			}
@@ -250,29 +250,29 @@ renaissance = {
 			AND = {
 				is_year = 1500
 				owner = {
-					NOT = { technology_group = north_american }
+					NOT = { technology_group = arceln }
 					NOT = { technology_group = mesoamerican }
-					NOT = { technology_group = south_american }
+					NOT = { technology_group = curymn }
 					NOT = { technology_group = andean }
 				}
-				superregion = south_america_superregion
+				superregion = curym_superregion
 			}
 			AND = {
 				is_year = 1500
 				owner = {
-					NOT = { technology_group = north_american }
+					NOT = { technology_group = arceln }
 					NOT = { technology_group = mesoamerican }
-					NOT = { technology_group = south_american }
+					NOT = { technology_group = curymn }
 					NOT = { technology_group = andean }
 				}
-				superregion = north_america_superregion
+				superregion = arcel_superregion
 			}
 			AND = {
 				is_year = 1500
 				owner = {
-					NOT = { technology_group = north_american }
+					NOT = { technology_group = arceln }
 					NOT = { technology_group = mesoamerican }
-					NOT = { technology_group = south_american }
+					NOT = { technology_group = curymn }
 					NOT = { technology_group = andean }
 				}
 				superregion = central_america_superregion
@@ -511,29 +511,29 @@ new_world_i = {
 			AND = {
 				is_year = 1550
 				owner = {
-					NOT = { technology_group = north_american }
+					NOT = { technology_group = arceln }
 					NOT = { technology_group = mesoamerican }
-					NOT = { technology_group = south_american }
+					NOT = { technology_group = curymn }
 					NOT = { technology_group = andean }
 				}
-				superregion = south_america_superregion
+				superregion = curym_superregion
 			}
 			AND = {
 				is_year = 1550
 				owner = {
-					NOT = { technology_group = north_american }
+					NOT = { technology_group = arceln }
 					NOT = { technology_group = mesoamerican }
-					NOT = { technology_group = south_american }
+					NOT = { technology_group = curymn }
 					NOT = { technology_group = andean }
 				}
-				superregion = north_america_superregion
+				superregion = arcel_superregion
 			}
 			AND = {
 				is_year = 1550
 				owner = {
-					NOT = { technology_group = north_american }
+					NOT = { technology_group = arceln }
 					NOT = { technology_group = mesoamerican }
-					NOT = { technology_group = south_american }
+					NOT = { technology_group = curymn }
 					NOT = { technology_group = andean }
 				}
 				superregion = central_america_superregion
@@ -617,8 +617,8 @@ new_world_i = {
 				}
 			}
 			OR = {
-				north_america = { has_discovered = PREV }
-				south_america = { has_discovered = PREV }
+				arcel = { has_discovered = PREV }
+				curym = { has_discovered = PREV }
 				new_world = { has_discovered = PREV }
 			}
 		}
@@ -817,29 +817,29 @@ printing_press = {
 			AND = {
 				is_year = 1600
 				owner = {
-					NOT = { technology_group = north_american }
+					NOT = { technology_group = arceln }
 					NOT = { technology_group = mesoamerican }
-					NOT = { technology_group = south_american }
+					NOT = { technology_group = curymn }
 					NOT = { technology_group = andean }
 				}
-				superregion = south_america_superregion
+				superregion = curym_superregion
 			}
 			AND = {
 				is_year = 1600
 				owner = {
-					NOT = { technology_group = north_american }
+					NOT = { technology_group = arceln }
 					NOT = { technology_group = mesoamerican }
-					NOT = { technology_group = south_american }
+					NOT = { technology_group = curymn }
 					NOT = { technology_group = andean }
 				}
-				superregion = north_america_superregion
+				superregion = arcel_superregion
 			}
 			AND = {
 				is_year = 1600
 				owner = {
-					NOT = { technology_group = north_american }
+					NOT = { technology_group = arceln }
 					NOT = { technology_group = mesoamerican }
-					NOT = { technology_group = south_american }
+					NOT = { technology_group = curymn }
 					NOT = { technology_group = andean }
 				}
 				superregion = central_america_superregion
@@ -1156,29 +1156,29 @@ global_trade = {
 			AND = {
 				is_year = 1660
 				owner = {
-					NOT = { technology_group = north_american }
+					NOT = { technology_group = arceln }
 					NOT = { technology_group = mesoamerican }
-					NOT = { technology_group = south_american }
+					NOT = { technology_group = curymn }
 					NOT = { technology_group = andean }
 				}
-				superregion = south_america_superregion
+				superregion = curym_superregion
 			}
 			AND = {
 				is_year = 1660
 				owner = {
-					NOT = { technology_group = north_american }
+					NOT = { technology_group = arceln }
 					NOT = { technology_group = mesoamerican }
-					NOT = { technology_group = south_american }
+					NOT = { technology_group = curymn }
 					NOT = { technology_group = andean }
 				}
-				superregion = north_america_superregion
+				superregion = arcel_superregion
 			}
 			AND = {
 				is_year = 1660
 				owner = {
-					NOT = { technology_group = north_american }
+					NOT = { technology_group = arceln }
 					NOT = { technology_group = mesoamerican }
-					NOT = { technology_group = south_american }
+					NOT = { technology_group = curymn }
 					NOT = { technology_group = andean }
 				}
 				superregion = central_america_superregion
@@ -1478,29 +1478,29 @@ manufactories = {
 			AND = {
 				is_year = 1760
 				owner = {
-					NOT = { technology_group = north_american }
+					NOT = { technology_group = arceln }
 					NOT = { technology_group = mesoamerican }
-					NOT = { technology_group = south_american }
+					NOT = { technology_group = curymn }
 					NOT = { technology_group = andean }
 				}
-				superregion = south_america_superregion
+				superregion = curym_superregion
 			}
 			AND = {
 				is_year = 1760
 				owner = {
-					NOT = { technology_group = north_american }
+					NOT = { technology_group = arceln }
 					NOT = { technology_group = mesoamerican }
-					NOT = { technology_group = south_american }
+					NOT = { technology_group = curymn }
 					NOT = { technology_group = andean }
 				}
-				superregion = north_america_superregion
+				superregion = arcel_superregion
 			}
 			AND = {
 				is_year = 1760
 				owner = {
-					NOT = { technology_group = north_american }
+					NOT = { technology_group = arceln }
 					NOT = { technology_group = mesoamerican }
-					NOT = { technology_group = south_american }
+					NOT = { technology_group = curymn }
 					NOT = { technology_group = andean }
 				}
 				superregion = central_america_superregion
@@ -1969,29 +1969,29 @@ enlightenment = {
 			AND = {
 				is_year = 1770
 				owner = {
-					NOT = { technology_group = north_american }
+					NOT = { technology_group = arceln }
 					NOT = { technology_group = mesoamerican }
-					NOT = { technology_group = south_american }
+					NOT = { technology_group = curymn }
 					NOT = { technology_group = andean }
 				}
-				superregion = south_america_superregion
+				superregion = curym_superregion
 			}
 			AND = {
 				is_year = 1770
 				owner = {
-					NOT = { technology_group = north_american }
+					NOT = { technology_group = arceln }
 					NOT = { technology_group = mesoamerican }
-					NOT = { technology_group = south_american }
+					NOT = { technology_group = curymn }
 					NOT = { technology_group = andean }
 				}
-				superregion = north_america_superregion
+				superregion = arcel_superregion
 			}
 			AND = {
 				is_year = 1770
 				owner = {
-					NOT = { technology_group = north_american }
+					NOT = { technology_group = arceln }
 					NOT = { technology_group = mesoamerican }
-					NOT = { technology_group = south_american }
+					NOT = { technology_group = curymn }
 					NOT = { technology_group = andean }
 				}
 				superregion = central_america_superregion

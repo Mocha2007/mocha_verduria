@@ -219,20 +219,20 @@ pirate_2 = {
 		}
 		
 		effect = {
-			cuba_area = {
-				limit = {
-					NOT = { is_core = ROOT }
-					NOT = { is_permanent_claim = ROOT }
-				}
-				add_permanent_claim = ROOT
-			}
-			east_cuba_area = {
-				limit = {
-					NOT = { is_core = ROOT }
-					NOT = { is_permanent_claim = ROOT }
-				}
-				add_permanent_claim = ROOT
-			}
+			#cuba_area = {
+			#	limit = {
+			#		NOT = { is_core = ROOT }
+			#		NOT = { is_permanent_claim = ROOT }
+			#	}
+			#	add_permanent_claim = ROOT
+			#}
+			#east_cuba_area = {
+			#	limit = {
+			#		NOT = { is_core = ROOT }
+			#		NOT = { is_permanent_claim = ROOT }
+			#	}
+			#	add_permanent_claim = ROOT
+			#}
 		}
 	}
 	pirate_running_down_to_cuba = {
@@ -260,13 +260,13 @@ pirate_2 = {
 		}
 		
 		effect = {
-			carribeans_region = {
-				limit = {
-					NOT = { is_core = ROOT }
-					NOT = {  is_permanent_claim = ROOT }
-				}
-				add_permanent_claim = ROOT
-			}
+			#carribeans_region = {
+			#	limit = {
+			#		NOT = { is_core = ROOT }
+			#		NOT = {  is_permanent_claim = ROOT }
+			#	}
+			#	add_permanent_claim = ROOT
+			#}
 		}
 	}
 	pirate_pirates_of_the_caribbean = {

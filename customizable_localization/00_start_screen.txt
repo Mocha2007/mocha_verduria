@@ -2716,39 +2716,6 @@ defined_text = {
 }
 
 defined_text = {
-    name = start_shogun_holders_through_the_years #used to display right clan name for the Shogunate in startup screen.
-	random = no
-
-    text = {
-        localisation_key = ASK
-        trigger = {
-			exists = ASK
-			ASK = {
-				has_reform = shogunate
-			}
-        }
-    }
-	text = {
-        localisation_key = ODA
-        trigger = {
-			exists = ODA
-			ODA = {
-				has_reform = shogunate
-			}
-        }
-    }
-	text = {
-        localisation_key = TKG
-        trigger = {
-			exists = TKG
-			TKG = {
-				has_reform = shogunate
-			}
-        }
-    }
-}
-
-defined_text = {
     name = start_anglicanism_description
 	random = no
 
