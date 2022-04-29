@@ -9,6 +9,7 @@ tags = {
 }
 replace_path = "common/estates"
 replace_path = "common/estate_agendas"
+replace_path = "customizable_localization"
 replace_path = "decisions"
 replace_path = "events"
 replace_path = "history/countries"
