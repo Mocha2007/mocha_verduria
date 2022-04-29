@@ -122,14 +122,7 @@ animism_rebels = {
 	}
  
  	# Province Scope
- 	siege_won_trigger = {
-		NOT = {
-			AND = {
-				owned_by = PAP
-				is_capital = yes
-			}
-		}
- 	}
+ 	siege_won_trigger = {}
 	siege_won_effect = {
 		custom_tooltip = religious_rebels_seige_effect_tooltip
 		hidden_effect = {
@@ -203,12 +196,6 @@ animism_rebels = {
 			}
 		}
 		if = {
-			limit = {
-				tag = PAP
-			}
-			add_stability = -1
-		}
-		else_if = {
 			limit = {
 				religion = animism
 			}

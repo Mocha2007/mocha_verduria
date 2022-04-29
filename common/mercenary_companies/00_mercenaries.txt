@@ -55,26 +55,6 @@ merc_knights_templar = {
 	cost_modifier = 0.5
 }
 
-
-
-# Pontifical Swiss Guard
-merc_swiss_guard = {
-    regiments_per_development = 0.02
-	home_province = 166
-	sprites = { dlc029_pap_sprite_pack dlc040_pap_sprite_pack westerngfx_sprite_pack }
-    trigger = { 
-		tag = PAP
-		custom_trigger_tooltip = {
-			tooltip = swiss_guard_activated
-			has_country_flag = enable_swiss_guard
-		}
-	}
-    cost_modifier = 0.5
-	modifier = {
-		discipline = 0.025
-	}
-}
-
 merc_buccaneer_battalion = {
     regiments_per_development = 0.05
     home_province = 489 # Tortuga

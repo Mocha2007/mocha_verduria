@@ -111,14 +111,10 @@ heretic_rebels = {
 	}
 	
 	# Country scope
-	can_negotiate_trigger = {
-		NOT = { tag = PAP }
-	}
+	can_negotiate_trigger = {}
 	
 	# Country scope
-	can_enforce_trigger = {
-		NOT = { tag = PAP }
-	}
+	can_enforce_trigger = {}
 
 	# Localisation for their demands
 	demands_description = "heretic_rebels_demand"

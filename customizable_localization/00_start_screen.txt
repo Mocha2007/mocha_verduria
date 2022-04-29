@@ -24,12 +24,6 @@ defined_text = {
         }
     }
     text = {
-        localisation_key = string_screen_title_papacy
-        trigger = {
-			tag = PAP
-        }
-    }
-    text = {
         localisation_key = string_screen_title
         trigger = {
 			always = yes
@@ -944,100 +938,7 @@ defined_text = {
 				is_year = 1488
 			}
 		}
-	}	
-	text = { # Provence
-		localisation_key = string_start_provence
-		trigger = {
-			tag = PRO
-			NOT = {
-				is_year = 1481 # death of Rene
-			}
-		}
-	}	
-	text = { #Papal State
-		localisation_key = string_start_papal_state
-		trigger = {
-			OR = {
-				tag = PAP
-				tag = PGA
-				tag = URB
-			}
-		}
-	}	
-	text = { #Lantus
-		localisation_key = string_start_LANTUS
-		trigger = {
-			OR = {
-				tag = LAN
-				tag = SIE
-				tag = LUC
-			}
-			NOT = { is_year = 1569 }
-		}
-	}	
-	text = { #Dutch Minors
-		localisation_key = string_start_dutch_minors
-		trigger = {
-			OR = {
-				tag = HOL
-				tag = BRB
-				tag = FLA
-				tag = FRI
-				tag = UTR
-				tag = GEL
-			}
-			NOT = { is_year = 1467 }
-		}
-	}	
-	text = { #Venice
-		localisation_key = string_start_venice
-		trigger = {
-			tag = VEN
-		}
-	}	
-	text = { #Hanseatic
-		localisation_key = string_start_hanseatic
-		trigger = {
-			OR = {
-				tag = HSA
-				tag = BRE
-				tag = HAM
-			}
-		}
-	}	
-	text = { #Byzantium
-		localisation_key = string_start_byzantium
-		trigger = {
-			tag = BYZ
-		}
-	}	
-	text = { #Naples
-		localisation_key = string_start_naples
-		trigger = {
-			tag = NAP
-		}
-	}	
-	text = { #Genoa
-		localisation_key = string_start_genoa
-		trigger = {
-			tag = GEN
-		}
 	}
-	
-	#Middle & Near East	
-	text = { # The Tatar Hordes
-		localisation_key = string_start_tatars
-        trigger = {
-			OR = {
-				tag = KAZ
-				tag = GOL
-				tag = CRI
-				tag = SHY
-				tag = NOG
-			}
-			NOT = { is_year = 1466 }
-        }
-	}	
 	text = { #The Ottoman Empire
 		localisation_key = string_start_ottomans
         trigger = {
