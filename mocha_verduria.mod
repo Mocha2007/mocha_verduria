@@ -7,6 +7,7 @@ tags = {
     "Alternative History"
     "New Nations"
 }
+replace_path = "common/cultures"
 replace_path = "common/estates"
 replace_path = "common/estate_agendas"
 replace_path = "customizable_localization"
