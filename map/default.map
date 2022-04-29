@@ -1,7 +1,8 @@
 width = 1792
 height = 1152
 
-max_provinces = 149
+# per https://www.reddit.com/r/eu4/comments/lzlp0c/mod_wont_load_past_initializing_maplogic_help/gq3krpv/
+max_provinces = 4970 # should be 149, but it may be necessary to fake-inflate this
 
 sea_starts = { 
 	16 17 18 19
