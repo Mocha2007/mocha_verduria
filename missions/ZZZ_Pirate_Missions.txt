@@ -241,22 +241,22 @@ pirate_2 = {
 		
 		provinces_to_highlight = {
 			OR = {
-				area = cuba_area
-				area = east_cuba_area
+				#area = cuba_area
+				#area = east_cuba_area
 			}
 			NOT = { country_or_non_sovereign_subject_holds = ROOT }
 			has_discovered = yes
 		}
 		
 		trigger = {
-			cuba_area = {
-				type = all
-				country_or_non_sovereign_subject_holds = ROOT
-			}
-			east_cuba_area = {
-				type = all
-				country_or_non_sovereign_subject_holds = ROOT
-			}
+			#cuba_area = {
+			#	type = all
+			#	country_or_non_sovereign_subject_holds = ROOT
+			#}
+			#east_cuba_area = {
+			#	type = all
+			#	country_or_non_sovereign_subject_holds = ROOT
+			#}
 		}
 		
 		effect = {

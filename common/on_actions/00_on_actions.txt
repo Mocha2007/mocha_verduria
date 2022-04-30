@@ -6,18 +6,6 @@ on_startup = {
 		limit = {
 			current_age = age_of_discovery
 		}
-		LXA = {
-			if = {
-				limit = {
-					NOT = { has_country_flag = lxa_loyalty_flag }
-				}
-				add_estate_loyalty = {
-					estate = estate_church
-					loyalty = -10
-				}
-				set_country_flag = lxa_loyalty_flag
-			}
-		}
 	}
 	emperor = {
 		save_global_event_target_as = Emperor
