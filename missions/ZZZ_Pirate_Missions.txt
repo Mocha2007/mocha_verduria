@@ -280,10 +280,10 @@ pirate_2 = {
 		}
 
 		trigger = {
-			carribeans_region = {
-				type = all
-				country_or_non_sovereign_subject_holds = ROOT
-			}
+			#carribeans_region = {
+			#	type = all
+			#	country_or_non_sovereign_subject_holds = ROOT
+			#}
 		}
 		
 		# give permanent claims on ALL gold provinces nearby, pirates love gold

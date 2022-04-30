@@ -522,74 +522,6 @@ on_battle_lost_province = {
 # country
 # root = winning country, from = location
 on_siege_won_country = {
-	if = {
-		limit = {
-			from = { owned_by = SAX }
-			OR = {
-				is_in_war = {
-					defenders = root
-					defenders = THU
-					defenders = emperor
-					attackers = SAX
-				}
-				is_in_war = {
-					attackers = root
-					attackers = THU
-					attackers = emperor
-					defenders = SAX
-				}
-			}
-			THU = {
-				dynasty = "von Wettin"
-				is_elector = no
-				is_emperor = no
-				alliance_with = emperor
-			}
-			SAX = {
-				is_elector = yes
-				all_owned_province = {
-					NOT = { controlled_by = SAX }
-					OR = {
-						controlled_by = THU
-						controller = {
-							OR = {
-								is_in_war = {
-									defenders = this
-									defenders = THU
-									defenders = emperor
-									attackers = SAX
-								}
-								is_in_war = {
-									attackers = this
-									attackers = THU
-									attackers = emperor
-									defenders = SAX
-								}
-							}
-						}
-					}
-				}
-			}
-		}
-		THU = { country_event = { id = flavor_sax.10 } } # Ask Emperor for Saxon Electorate
-	}
-	if = {
-		limit = {
-			ROOT = {
-				religion = jewish
-				has_church_aspect = judaism_remember_passover_aspect
-			}
-			FROM = {
-				owner = {
-					war_with = ROOT
-				}
-				fort_level = 1
-			}
-		}
-		ROOT = {
-			add_church_power = 5
-		}
-	}
 	grant_manpower_from_capital_slave_raid = yes
 	events = {
 		tyw_events.14 # Fall of Prague in Religious War
@@ -605,12 +537,7 @@ on_siege_won_country = {
 
 # country
 # root = losing country, from = location
-on_siege_lost_country = {
-	events = {
-		curia.8
-		papacy_events.5
-	}
-}
+on_siege_lost_country = {}
 
 # province
 # root = location, from = losing country

@@ -11,6 +11,7 @@ tags = {
 replace_path = "common/bookmarks"
 replace_path = "common/countries"
 replace_path = "common/disasters"
+# replace_path = "common/estate_agendas"
 replace_path = "common/province_names"
 replace_path = "common/rebel_types"
 replace_path = "common/trade_companies"
