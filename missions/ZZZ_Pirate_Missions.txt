@@ -218,46 +218,18 @@ pirate_2 = {
 			}
 		}
 		
-		effect = {
-			#cuba_area = {
-			#	limit = {
-			#		NOT = { is_core = ROOT }
-			#		NOT = { is_permanent_claim = ROOT }
-			#	}
-			#	add_permanent_claim = ROOT
-			#}
-			#east_cuba_area = {
-			#	limit = {
-			#		NOT = { is_core = ROOT }
-			#		NOT = { is_permanent_claim = ROOT }
-			#	}
-			#	add_permanent_claim = ROOT
-			#}
-		}
+		effect = {}
 	}
 	pirate_running_down_to_cuba = {
 		icon = mission_unite_home_region
 		required_missions = { pirate_an_old_fort }
 		
 		provinces_to_highlight = {
-			OR = {
-				#area = cuba_area
-				#area = east_cuba_area
-			}
 			NOT = { country_or_non_sovereign_subject_holds = ROOT }
 			has_discovered = yes
 		}
 		
-		trigger = {
-			#cuba_area = {
-			#	type = all
-			#	country_or_non_sovereign_subject_holds = ROOT
-			#}
-			#east_cuba_area = {
-			#	type = all
-			#	country_or_non_sovereign_subject_holds = ROOT
-			#}
-		}
+		trigger = {}
 		
 		effect = {}
 	}
@@ -525,35 +497,6 @@ pirate_5 = {
 			}
 		}
 		
-		effect = {
-			madagascar_highlands_area = {
-				limit = {
-					NOT = { is_core = ROOT }
-					NOT = { is_permanent_claim = ROOT }
-				}
-				add_permanent_claim = ROOT
-			}
-			betsimasaraka_area = {
-				limit = {
-					NOT = { is_core = ROOT }
-					NOT = { is_permanent_claim = ROOT }
-				}
-				add_permanent_claim = ROOT
-			}
-			sakalava_area = {
-				limit = {
-					NOT = { is_core = ROOT }
-					NOT = { is_permanent_claim = ROOT }
-				}
-				add_permanent_claim = ROOT
-			}
-			southern_madagascar = {
-				limit = {
-					NOT = { is_core = ROOT }
-					NOT = { is_permanent_claim = ROOT }
-				}
-				add_permanent_claim = ROOT
-			}
-		}
+		effect = {}
 	}
 }
