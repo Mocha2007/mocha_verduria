@@ -77,4 +77,4 @@ severe_monsoon = {
 	# todo
 }
 
-equator_y_on_province_image = 242
+equator_y_on_province_image = 1024
