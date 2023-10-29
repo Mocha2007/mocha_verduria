@@ -1,0 +1,40 @@
+# http://www.almeopedia.com/almeo.html?searchbox=Cuoli
+# Cuoli - 1M? -> 250k?
+35 = {
+	aristocrats = {
+		culture = cuolese
+		religion = animist
+		size = 2500
+	}
+
+	clergymen = {
+		culture = cuolese
+		religion = animist
+		size = 2500
+	}
+
+	artisans = {
+		culture = cuolese
+		religion = animist
+		size = 12500
+	}
+
+	soldiers = {
+		culture = cuolese
+		religion = animist
+		size = 2500
+	}
+
+	officers = {
+		culture = cuolese
+		religion = animist
+		size = 250
+	}
+
+	farmers = {
+		culture = cuolese
+		religion = animist
+		size = 229750
+	}
+
+}

@@ -102,6 +102,13 @@ flaidish = {
 lenani_littoral = {
 	leader = european
 	unit = EuropeanGC
+	lenani = { 
+		color = { 60 134 144 }
+
+		first_names = { Teronel }
+
+		last_names = { Lucei "multiword surname" }
+	}
 	tzuro = { 
 		color = { 120 140 160 }
 
@@ -116,6 +123,18 @@ metaiun = {
 	unit = EuropeanGC
 	kebri = { 
 		color = { 0 192 192 }
+
+		first_names = { Teruzir }
+
+		last_names = { Lucei "multiword surname" }
+	}
+}
+
+wedei_mei = {
+	leader = european
+	unit = EuropeanGC
+	cuolese = { 
+		color = { 0 128 128 }
 
 		first_names = { Teruzir }
 
