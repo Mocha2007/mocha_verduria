@@ -1,0 +1,40 @@
+# http://www.almeopedia.com/almeo.html?searchbox=Ismahi
+# Ismahi - 1.2M -> 300k
+81 = {
+	aristocrats = {
+		culture = ismain
+		religion = animist
+		size = 3000
+	}
+
+	clergymen = {
+		culture = ismain
+		religion = animist
+		size = 2000
+	}
+
+	artisans = {
+		culture = ismain
+		religion = animist
+		size = 17600
+	}
+
+	soldiers = {
+		culture = ismain
+		religion = animist
+		size = 3000
+	}
+
+	officers = {
+		culture = ismain
+		religion = animist
+		size = 300
+	}
+
+	farmers = {
+		culture = ismain
+		religion = animist
+		size = 274400
+	}
+
+}

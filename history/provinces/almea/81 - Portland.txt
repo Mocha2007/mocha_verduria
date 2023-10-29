@@ -1,2 +1,5 @@
+owner = ISM
+controller = ISM
+add_core = ISM
 trade_goods = cotton
 life_rating = 35

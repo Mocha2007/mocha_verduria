@@ -15,6 +15,13 @@ eastern_central = {
 
 		last_names = { Lucei "multiword surname" }
 	}
+	ismain = { 
+		color = { 142 162 0 }
+
+		first_names = { Teronel }
+
+		last_names = { Lucei "multiword surname" }
+	}
 }
 
 eynleyni = {
