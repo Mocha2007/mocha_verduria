@@ -61,6 +61,18 @@ flaidish = {
 	union = FLO
 }
 
+lenani_littoral = {
+	leader = european
+	unit = EuropeanGC
+	tzuro = { 
+		color = { 120 140 160 }
+
+		first_names = { Teronel }
+
+		last_names = { Lucei "multiword surname" }
+	}
+}
+
 metaiun = {
 	leader = european
 	unit = EuropeanGC

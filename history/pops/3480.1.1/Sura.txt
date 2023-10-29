@@ -1,0 +1,40 @@
+# http://www.almeopedia.com/almeo.html?%C5%A0ura
+# Sura - 4M (wild guess) -> 1M
+13 = {
+	aristocrats = {
+		culture = tzuro
+		religion = animist
+		size = 10000
+	}
+
+	clergymen = {
+		culture = tzuro
+		religion = animist
+		size = 10000
+	}
+
+	artisans = {
+		culture = tzuro
+		religion = animist
+		size = 50000
+	}
+
+	soldiers = {
+		culture = tzuro
+		religion = animist
+		size = 10000
+	}
+
+	officers = {
+		culture = tzuro
+		religion = animist
+		size = 1000
+	}
+
+	farmers = {
+		culture = tzuro
+		religion = animist
+		size = 929000
+	}
+
+}
