@@ -1,18 +1,18 @@
 # ICONS
-# 1		catholic	USED
-# 2		protestant	USED
-# 3		orthodox	USED
-# 4		coptic		USED
-# 5		sunni		USED
-# 6		shiite		USED
-# 7		jewish
-# 8		mahayana	USED
+# 1		catholic	USED	cuzeian
+# 2		protestant	USED	irreanist
+# 3		orthodox	USED	cadhinoran
+# 4		coptic		USED	jippirasti
+# 5		sunni		USED	mesaism
+# 6		shiite		USED	endajue
+# 7		jewish		USED	gelalhat
+# 8		mahayana
 # 9		gelugpa
 # 10	theravada
 # 11	hindu
 # 12	shinto
 # 13	sikh
-# 14	animist		USED
+# 14	animist		USED	animist
 
 
 cuzeian = {
@@ -24,7 +24,7 @@ cuzeian = {
 
 gelalhat = {
 	gelalhat = {
-		icon = 3 # Orthodox
+		icon = 7 # jewish
 		color = { 0.8 0.7 0.2 }
 	}
 }
@@ -45,18 +45,18 @@ jippirasti = {
 
 mesaism = {
 	endajue = {
-		icon = 5 # Sunni
+		icon = 6 # Shiite
 		color = { 0.6 0.9 0.5 }
 	}
 	mesaism = {
-		icon = 6 # Shiite
+		icon = 5 # Sunni
 		color = { 0.6 0.9 0.5 }
 	}
 }
 
 pagan = {
 	cadhinoran = {
-		icon = 8 # Mahayana
+		icon = 3 # Mahayana
 		color = { 0.5 0.0 0.0 }
 		pagan = yes
 	}
