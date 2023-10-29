@@ -1,0 +1,40 @@
+# http://www.almeopedia.com/almeo.html?Vim%C3%ADnia
+# Erenat - 1.9M -> 475k
+34 = {
+	aristocrats = {
+		culture = verdurian
+		religion = animist
+		size = 4580
+	}
+
+	clergymen = {
+		culture = verdurian
+		religion = animist
+		size = 3186
+	}
+
+	artisans = {
+		culture = verdurian
+		religion = animist
+		size = 27881
+	}
+
+	soldiers = {
+		culture = verdurian
+		religion = animist
+		size = 4750
+	}
+
+	officers = {
+		culture = verdurian
+		religion = animist
+		size = 475
+	}
+
+	farmers = {
+		culture = verdurian
+		religion = animist
+		size = 434148
+	}
+
+}

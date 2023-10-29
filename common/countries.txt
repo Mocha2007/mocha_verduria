@@ -12,6 +12,7 @@ VER		= "countries/Verduria.txt"
 # Eretald Minors
 
 BAR		= "countries/Barakhun.txt"
+ERE		= "countries/Erenat.txt"
 HRO		= "countries/Hroth.txt"
 ISM		= "countries/Ismahi.txt"
 MUT		= "countries/Mutkun.txt"
