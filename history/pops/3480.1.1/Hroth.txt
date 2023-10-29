@@ -22,7 +22,13 @@
 	soldiers = {
 		culture = verdurian
 		religion = animist
-		size = 1200
+		size = 1175
+	}
+
+	officers = {
+		culture = viminian
+		religion = animist
+		size = 118
 	}
 
 	farmers = {

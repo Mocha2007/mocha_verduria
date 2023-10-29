@@ -103,7 +103,7 @@
 	farmers = {
 		culture = verdurian
 		religion = animist
-		size = 23825
+		size = 73825
 	}
 
 }
@@ -135,7 +135,7 @@
 	farmers = {
 		culture = verdurian
 		religion = animist
-		size = 23825
+		size = 73825
 	}
 
 }
@@ -168,7 +168,7 @@
 	farmers = {
 		culture = verdurian
 		religion = animist
-		size = 23825
+		size = 73825
 	}
 
 }
@@ -200,7 +200,7 @@
 	farmers = {
 		culture = verdurian
 		religion = animist
-		size = 23825
+		size = 73825
 	}
 
 }
@@ -232,7 +232,7 @@
 	farmers = {
 		culture = verdurian
 		religion = animist
-		size = 23825
+		size = 73825
 	}
 
 }
@@ -264,7 +264,7 @@
 	farmers = {
 		culture = verdurian
 		religion = animist
-		size = 23825
+		size = 73825
 	}
 
 }
@@ -296,7 +296,7 @@
 	farmers = {
 		culture = verdurian
 		religion = animist
-		size = 23825
+		size = 73825
 	}
 
 }
@@ -328,7 +328,7 @@
 	farmers = {
 		culture = verdurian
 		religion = animist
-		size = 23825
+		size = 73825
 	}
 
 }
@@ -360,7 +360,7 @@
 	farmers = {
 		culture = verdurian
 		religion = animist
-		size = 23825
+		size = 73825
 	}
 
 }
@@ -392,7 +392,7 @@
 	farmers = {
 		culture = verdurian
 		religion = animist
-		size = 23825
+		size = 73825
 	}
 
 }
@@ -424,7 +424,7 @@
 	farmers = {
 		culture = verdurian
 		religion = animist
-		size = 23825
+		size = 73825
 	}
 
 }
@@ -456,7 +456,23 @@
 	farmers = {
 		culture = verdurian
 		religion = animist
-		size = 23825
+		size = 73825
 	}
 
+}
+# COLONIES
+102 = {
+	farmers = {
+		culture = verdurian
+		religion = animist
+		size = 1000
+	}
+}
+# COLONIES
+108 = {
+	farmers = {
+		culture = verdurian
+		religion = animist
+		size = 1000
+	}
 }

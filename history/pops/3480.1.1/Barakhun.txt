@@ -25,6 +25,12 @@
 		size = 1500
 	}
 
+	officers = {
+		culture = viminian
+		religion = animist
+		size = 150
+	}
+
 	farmers = {
 		culture = verdurian
 		religion = animist

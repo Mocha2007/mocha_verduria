@@ -49,3 +49,11 @@
 		size = 321000
 	}
 }
+# COLONIES
+107 = {
+	farmers = {
+		culture = kebri
+		religion = animist
+		size = 1000
+	}
+}
