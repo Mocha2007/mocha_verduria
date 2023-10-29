@@ -3,37 +3,37 @@
 81 = {
 	aristocrats = {
 		culture = ismain
-		religion = animist
+		religion = cadhinoran
 		size = 3000
 	}
 
 	clergymen = {
 		culture = ismain
-		religion = animist
+		religion = cadhinoran
 		size = 2000
 	}
 
 	artisans = {
 		culture = ismain
-		religion = animist
+		religion = cadhinoran
 		size = 17600
 	}
 
 	soldiers = {
 		culture = ismain
-		religion = animist
+		religion = cadhinoran
 		size = 3000
 	}
 
 	officers = {
 		culture = ismain
-		religion = animist
+		religion = cadhinoran
 		size = 300
 	}
 
 	farmers = {
 		culture = ismain
-		religion = animist
+		religion = cadhinoran
 		size = 274400
 	}
 

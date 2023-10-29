@@ -1,6 +1,6 @@
 capital = 66
 primary_culture = verdurian
-religion = animist
+religion = cadhinoran
 government = hms_government
 plurality = 0.2
 nationalvalue = nv_order

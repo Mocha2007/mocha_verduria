@@ -4,73 +4,73 @@
 57 = {
 	aristocrats = {
 		culture = verdurian
-		religion = animist
+		religion = cadhinoran
 		size = 2500
 	}
 
 	clergymen = {
 		culture = verdurian
-		religion = animist
+		religion = cadhinoran
 		size = 2500
 	}
 
 	artisans = {
 		culture = verdurian
-		religion = animist
+		religion = cadhinoran
 		size = 12500
 	}
 
 	soldiers = {
 		culture = verdurian
-		religion = animist
+		religion = cadhinoran
 		size = 2500
 	}
 
 	officers = {
 		culture = verdurian
-		religion = animist
+		religion = cadhinoran
 		size = 250
 	}
 
 	farmers = {
 		culture = verdurian
-		religion = animist
+		religion = cadhinoran
 		size = 232250
 	}
 
 	aristocrats = {
 		culture = curiyan
-		religion = animist
+		religion = cadhinoran
 		size = 2500
 	}
 
 	clergymen = {
 		culture = curiyan
-		religion = animist
+		religion = cadhinoran
 		size = 2500
 	}
 
 	artisans = {
 		culture = curiyan
-		religion = animist
+		religion = cadhinoran
 		size = 12500
 	}
 
 	soldiers = {
 		culture = curiyan
-		religion = animist
+		religion = cadhinoran
 		size = 2500
 	}
 
 	officers = {
 		culture = curiyan
-		religion = animist
+		religion = cadhinoran
 		size = 250
 	}
 
 	farmers = {
 		culture = curiyan
-		religion = animist
+		religion = cadhinoran
 		size = 232250
 	}
 }

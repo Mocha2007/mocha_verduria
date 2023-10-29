@@ -3,37 +3,37 @@
 47 = {
 	aristocrats = {
 		culture = barakhinei
-		religion = animist
+		religion = cadhinoran
 		size = 1500
 	}
 
 	clergymen = {
 		culture = barakhinei
-		religion = animist
+		religion = cadhinoran
 		size = 1000
 	}
 
 	artisans = {
 		culture = barakhinei
-		religion = animist
+		religion = cadhinoran
 		size = 8800
 	}
 
 	soldiers = {
 		culture = barakhinei
-		religion = animist
+		religion = cadhinoran
 		size = 1500
 	}
 
 	officers = {
 		culture = barakhinei
-		religion = animist
+		religion = cadhinoran
 		size = 150
 	}
 
 	farmers = {
 		culture = barakhinei
-		religion = animist
+		religion = cadhinoran
 		size = 137200
 	}
 
