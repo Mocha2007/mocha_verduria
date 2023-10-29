@@ -1,5 +1,5 @@
 owner = XUR
 controller = XUR
 add_core = XUR
-trade_goods = grain
+trade_goods = cotton
 life_rating = 15

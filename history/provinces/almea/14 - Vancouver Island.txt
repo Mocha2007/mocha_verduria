@@ -1,6 +1,6 @@
 owner = DHE
 controller = DHE
 add_core = DHE
-trade_goods = tobacco
+trade_goods = cotton
 life_rating = 35
 naval_base = 1

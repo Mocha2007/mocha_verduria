@@ -1,5 +1,5 @@
 owner = VER
 controller = VER
 add_core = VER
-trade_goods = fish # guess
+trade_goods = silk # guess
 life_rating = 35

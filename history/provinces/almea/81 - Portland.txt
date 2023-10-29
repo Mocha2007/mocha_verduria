@@ -1,6 +1,6 @@
 owner = ISM
 controller = ISM
 add_core = ISM
-trade_goods = cotton
+trade_goods = tobacco
 life_rating = 35
 naval_base = 1

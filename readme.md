@@ -2,6 +2,7 @@
 
 * I designed the Viminian flag to be reflective of a rural landscape - a blue bar for the sky, a yellow bar for wheat, and a green bar for a fertile meadow... or something.
 * I designed the Suran flag to be a very abstracted map of the country itself.
+* "Typical exports from Eretald were wine, weapons, silk, tobacco, and olive oil (ie. the region produces an excess of FRUIT, SILK, and TOBACCO); from Xengiman, gold, linen, lace, perfumes, medicines, and hard cider." (PRECIOUS METALS? COTTON? OPIUM? FRUIT?) per http://www.almeopedia.com/almeo.html?Xazno
 
 ## ADDING A COUNTRY CHECKLIST
 
