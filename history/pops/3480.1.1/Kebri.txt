@@ -1,0 +1,51 @@
+# Kebri (1800000/450000 POPS)
+# Based on Aberdeen
+12 = {
+	farmers = {
+		culture = kebri
+		religion = animist
+		size = 25500
+	}
+
+	aristocrats = {
+		culture = kebri
+		religion = animist
+		size = 1275
+	}
+
+	officers = {
+		culture = kebri
+		religion = animist
+		size = 6375
+	}
+
+	soldiers = {
+		culture = kebri
+		religion = animist
+		size = 12750
+	}
+
+	clerks = {
+		culture = kebri
+		religion = animist
+		size = 600
+	}
+
+	craftsmen = {
+		culture = kebri
+		religion = animist
+		size = 17850
+	}
+
+	artisans = {
+		culture = kebri
+		religion = animist
+		size = 72000
+	}
+
+	labourers = {
+		culture = kebri
+		religion = animist
+		size = 321000
+	}
+}
