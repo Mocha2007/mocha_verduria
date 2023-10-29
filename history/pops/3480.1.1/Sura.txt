@@ -1,40 +1,458 @@
 # http://www.almeopedia.com/almeo.html?%C5%A0ura
-# Sura - 4M (wild guess) -> 1M
+# Sura - 4.8M (wild guess) -> 1.2M (100k each)
 13 = {
 	aristocrats = {
-		culture = tzuro
-		religion = jippirasti
-		size = 10000
-	}
-
-	clergymen = {
-		culture = tzuro
-		religion = jippirasti
-		size = 10000
-	}
-
-	artisans = {
-		culture = tzuro
-		religion = jippirasti
-		size = 50000
-	}
-
-	soldiers = {
-		culture = tzuro
-		religion = jippirasti
-		size = 10000
-	}
-
-	officers = {
 		culture = tzuro
 		religion = jippirasti
 		size = 1000
 	}
 
+	clergymen = {
+		culture = tzuro
+		religion = jippirasti
+		size = 1000
+	}
+
+	artisans = {
+		culture = tzuro
+		religion = jippirasti
+		size = 5000
+	}
+
+	soldiers = {
+		culture = tzuro
+		religion = jippirasti
+		size = 1000
+	}
+
+	officers = {
+		culture = tzuro
+		religion = jippirasti
+		size = 100
+	}
+
 	farmers = {
 		culture = tzuro
 		religion = jippirasti
-		size = 929000
+		size = 92900
+	}
+
+}
+163 = {
+	aristocrats = {
+		culture = tzuro
+		religion = jippirasti
+		size = 1000
+	}
+
+	clergymen = {
+		culture = tzuro
+		religion = jippirasti
+		size = 1000
+	}
+
+	artisans = {
+		culture = tzuro
+		religion = jippirasti
+		size = 5000
+	}
+
+	soldiers = {
+		culture = tzuro
+		religion = jippirasti
+		size = 1000
+	}
+
+	officers = {
+		culture = tzuro
+		religion = jippirasti
+		size = 100
+	}
+
+	farmers = {
+		culture = tzuro
+		religion = jippirasti
+		size = 92900
+	}
+
+}
+164 = {
+	aristocrats = {
+		culture = tzuro
+		religion = jippirasti
+		size = 1000
+	}
+
+	clergymen = {
+		culture = tzuro
+		religion = jippirasti
+		size = 1000
+	}
+
+	artisans = {
+		culture = tzuro
+		religion = jippirasti
+		size = 5000
+	}
+
+	soldiers = {
+		culture = tzuro
+		religion = jippirasti
+		size = 1000
+	}
+
+	officers = {
+		culture = tzuro
+		religion = jippirasti
+		size = 100
+	}
+
+	farmers = {
+		culture = tzuro
+		religion = jippirasti
+		size = 92900
+	}
+
+}
+165 = {
+	aristocrats = {
+		culture = tzuro
+		religion = jippirasti
+		size = 1000
+	}
+
+	clergymen = {
+		culture = tzuro
+		religion = jippirasti
+		size = 1000
+	}
+
+	artisans = {
+		culture = tzuro
+		religion = jippirasti
+		size = 5000
+	}
+
+	soldiers = {
+		culture = tzuro
+		religion = jippirasti
+		size = 1000
+	}
+
+	officers = {
+		culture = tzuro
+		religion = jippirasti
+		size = 100
+	}
+
+	farmers = {
+		culture = tzuro
+		religion = jippirasti
+		size = 92900
+	}
+
+}
+166 = {
+	aristocrats = {
+		culture = tzuro
+		religion = jippirasti
+		size = 1000
+	}
+
+	clergymen = {
+		culture = tzuro
+		religion = jippirasti
+		size = 1000
+	}
+
+	artisans = {
+		culture = tzuro
+		religion = jippirasti
+		size = 5000
+	}
+
+	soldiers = {
+		culture = tzuro
+		religion = jippirasti
+		size = 1000
+	}
+
+	officers = {
+		culture = tzuro
+		religion = jippirasti
+		size = 100
+	}
+
+	farmers = {
+		culture = tzuro
+		religion = jippirasti
+		size = 92900
+	}
+
+}
+167 = {
+	aristocrats = {
+		culture = tzuro
+		religion = jippirasti
+		size = 1000
+	}
+
+	clergymen = {
+		culture = tzuro
+		religion = jippirasti
+		size = 1000
+	}
+
+	artisans = {
+		culture = tzuro
+		religion = jippirasti
+		size = 5000
+	}
+
+	soldiers = {
+		culture = tzuro
+		religion = jippirasti
+		size = 1000
+	}
+
+	officers = {
+		culture = tzuro
+		religion = jippirasti
+		size = 100
+	}
+
+	farmers = {
+		culture = tzuro
+		religion = jippirasti
+		size = 92900
+	}
+
+}
+168 = {
+	aristocrats = {
+		culture = tzuro
+		religion = jippirasti
+		size = 1000
+	}
+
+	clergymen = {
+		culture = tzuro
+		religion = jippirasti
+		size = 1000
+	}
+
+	artisans = {
+		culture = tzuro
+		religion = jippirasti
+		size = 5000
+	}
+
+	soldiers = {
+		culture = tzuro
+		religion = jippirasti
+		size = 1000
+	}
+
+	officers = {
+		culture = tzuro
+		religion = jippirasti
+		size = 100
+	}
+
+	farmers = {
+		culture = tzuro
+		religion = jippirasti
+		size = 92900
+	}
+
+}
+169 = {
+	aristocrats = {
+		culture = tzuro
+		religion = jippirasti
+		size = 1000
+	}
+
+	clergymen = {
+		culture = tzuro
+		religion = jippirasti
+		size = 1000
+	}
+
+	artisans = {
+		culture = tzuro
+		religion = jippirasti
+		size = 5000
+	}
+
+	soldiers = {
+		culture = tzuro
+		religion = jippirasti
+		size = 1000
+	}
+
+	officers = {
+		culture = tzuro
+		religion = jippirasti
+		size = 100
+	}
+
+	farmers = {
+		culture = tzuro
+		religion = jippirasti
+		size = 92900
+	}
+
+}
+170 = {
+	aristocrats = {
+		culture = tzuro
+		religion = jippirasti
+		size = 1000
+	}
+
+	clergymen = {
+		culture = tzuro
+		religion = jippirasti
+		size = 1000
+	}
+
+	artisans = {
+		culture = tzuro
+		religion = jippirasti
+		size = 5000
+	}
+
+	soldiers = {
+		culture = tzuro
+		religion = jippirasti
+		size = 1000
+	}
+
+	officers = {
+		culture = tzuro
+		religion = jippirasti
+		size = 100
+	}
+
+	farmers = {
+		culture = tzuro
+		religion = jippirasti
+		size = 92900
+	}
+
+}
+171 = {
+	aristocrats = {
+		culture = tzuro
+		religion = jippirasti
+		size = 1000
+	}
+
+	clergymen = {
+		culture = tzuro
+		religion = jippirasti
+		size = 1000
+	}
+
+	artisans = {
+		culture = tzuro
+		religion = jippirasti
+		size = 5000
+	}
+
+	soldiers = {
+		culture = tzuro
+		religion = jippirasti
+		size = 1000
+	}
+
+	officers = {
+		culture = tzuro
+		religion = jippirasti
+		size = 100
+	}
+
+	farmers = {
+		culture = tzuro
+		religion = jippirasti
+		size = 92900
+	}
+
+}
+172 = {
+	aristocrats = {
+		culture = tzuro
+		religion = jippirasti
+		size = 1000
+	}
+
+	clergymen = {
+		culture = tzuro
+		religion = jippirasti
+		size = 1000
+	}
+
+	artisans = {
+		culture = tzuro
+		religion = jippirasti
+		size = 5000
+	}
+
+	soldiers = {
+		culture = tzuro
+		religion = jippirasti
+		size = 1000
+	}
+
+	officers = {
+		culture = tzuro
+		religion = jippirasti
+		size = 100
+	}
+
+	farmers = {
+		culture = tzuro
+		religion = jippirasti
+		size = 92900
+	}
+
+}
+173 = {
+	aristocrats = {
+		culture = tzuro
+		religion = jippirasti
+		size = 1000
+	}
+
+	clergymen = {
+		culture = tzuro
+		religion = jippirasti
+		size = 1000
+	}
+
+	artisans = {
+		culture = tzuro
+		religion = jippirasti
+		size = 5000
+	}
+
+	soldiers = {
+		culture = tzuro
+		religion = jippirasti
+		size = 1000
+	}
+
+	officers = {
+		culture = tzuro
+		religion = jippirasti
+		size = 100
+	}
+
+	farmers = {
+		culture = tzuro
+		religion = jippirasti
+		size = 92900
 	}
 
 }

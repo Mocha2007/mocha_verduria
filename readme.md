@@ -18,6 +18,7 @@ Religious Icons:
 * http://www.almeopedia.com/almeo.html?silk implies Silk only exists in Eretald, Dhekhnam, and Belesao (Arcel).
 * http://www.almeopedia.com/almeo.html?Tea tea is from Arcel.
 * http://www.almeopedia.com/almeo.html?coffee coffee is from... tropical Erelae?
+* http://www.almeopedia.com/almeo.html?%C5%A0ura "the chief goods they bought were Šureni wine as well as re-exported spices and horses;" (ie. FRUIT, CATTLE) but I will also temporarily include (TIMBER) so the world has a source of timber...
 
 ## RELIGION:
 
@@ -41,7 +42,8 @@ Religious Icons:
 3. map/provinces.bmp
 4. map/positions.txt, climate.txt, continent.txt, region.txt
 5. copy file over to provinces/almea/...
-6. localization/verduria.csv
+6. make sure pops are updated
+7. localization/verduria.csv
 
 ## Default Pop Composition:
 

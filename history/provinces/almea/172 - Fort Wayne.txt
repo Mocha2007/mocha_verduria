@@ -1,0 +1,6 @@
+# http://www.almeopedia.com/almeo.html?%C5%A0ura
+owner = SUR
+controller = SUR
+add_core = SUR
+trade_goods = timber
+life_rating = 35
