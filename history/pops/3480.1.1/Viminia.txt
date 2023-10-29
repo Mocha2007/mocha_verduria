@@ -1,0 +1,34 @@
+# http://www.almeopedia.com/almeo.html?Vim%C3%ADnia
+# Viminia - 950000 -> 237500
+66 = {
+	aristocrats = {
+		culture = viminian
+		religion = animist
+		size = 2300
+	}
+
+	clergymen = {
+		culture = viminian
+		religion = animist
+		size = 1600
+	}
+
+	artisans = {
+		culture = viminian
+		religion = animist
+		size = 14000
+	}
+
+	soldiers = {
+		culture = viminian
+		religion = animist
+		size = 2300
+	}
+
+	farmers = {
+		culture = viminian
+		religion = animist
+		size = 218000
+	}
+
+}

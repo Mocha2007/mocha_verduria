@@ -1,5 +1,5 @@
 capital = 66
-primary_culture = verdurian
+primary_culture = viminian
 religion = animist
 government = hms_government
 plurality = 0.2

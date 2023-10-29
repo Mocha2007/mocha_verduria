@@ -15,6 +15,13 @@ erelaean = {
 
 		last_names = { Lucei "multiword surname" }
 	}
+	viminian = { 
+		color = { 162 192 0 }
+
+		first_names = { Teronel }
+
+		last_names = { Lucei "multiword surname" }
+	}
 }
 
 flaidish = {
