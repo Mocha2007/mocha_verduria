@@ -1,0 +1,34 @@
+# http://www.almeopedia.com/almeo.html?Hroth
+# Hroth - 470000 -> 117500
+49 = {
+	aristocrats = {
+		culture = verdurian
+		religion = animist
+		size = 1150
+	}
+
+	clergymen = {
+		culture = verdurian
+		religion = animist
+		size = 790
+	}
+
+	artisans = {
+		culture = verdurian
+		religion = animist
+		size = 6900
+	}
+
+	soldiers = {
+		culture = verdurian
+		religion = animist
+		size = 1200
+	}
+
+	farmers = {
+		culture = verdurian
+		religion = animist
+		size = 107000
+	}
+
+}

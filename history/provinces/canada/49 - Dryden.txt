@@ -1,0 +1,2 @@
+# http://www.almeopedia.com/almeo.html?Hroth
+trade_goods = iron # marble
