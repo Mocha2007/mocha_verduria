@@ -1,39 +1,40 @@
 # http://www.almeopedia.com/almeo.html?searchbox=Lenan
 # Lenan - 1M? -> 250k?
+# jippirasti is a guess...
 36 = {
 	aristocrats = {
 		culture = lenani
-		religion = animist
+		religion = jippirasti
 		size = 2500
 	}
 
 	clergymen = {
 		culture = lenani
-		religion = animist
+		religion = jippirasti
 		size = 2500
 	}
 
 	artisans = {
 		culture = lenani
-		religion = animist
+		religion = jippirasti
 		size = 12500
 	}
 
 	soldiers = {
 		culture = lenani
-		religion = animist
+		religion = jippirasti
 		size = 2500
 	}
 
 	officers = {
 		culture = lenani
-		religion = animist
+		religion = jippirasti
 		size = 250
 	}
 
 	farmers = {
 		culture = lenani
-		religion = animist
+		religion = jippirasti
 		size = 229750
 	}
 

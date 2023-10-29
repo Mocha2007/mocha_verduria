@@ -3,37 +3,37 @@
 10 = {
 	aristocrats = {
 		culture = xurnese
-		religion = animist
+		religion = endajue
 		size = 10000
 	}
 
 	clergymen = {
 		culture = xurnese
-		religion = animist
+		religion = endajue
 		size = 10000
 	}
 
 	artisans = {
 		culture = xurnese
-		religion = animist
+		religion = endajue
 		size = 50000
 	}
 
 	soldiers = {
 		culture = xurnese
-		religion = animist
+		religion = endajue
 		size = 10000
 	}
 
 	officers = {
 		culture = xurnese
-		religion = animist
+		religion = endajue
 		size = 1000
 	}
 
 	farmers = {
 		culture = xurnese
-		religion = animist
+		religion = endajue
 		size = 929000
 	}
 

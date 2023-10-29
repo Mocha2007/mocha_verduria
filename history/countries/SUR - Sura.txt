@@ -1,6 +1,6 @@
 capital = 13
 primary_culture = tzuro
-religion = animist
+religion = jippirasti
 government = hms_government
 plurality = 0.2
 nationalvalue = nv_order

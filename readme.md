@@ -11,6 +11,10 @@
 * http://www.almeopedia.com/almeo.html?Tea tea is from Arcel.
 * http://www.almeopedia.com/almeo.html?coffee coffee is from... tropical Erelae?
 
+## RELIGION:
+
+* Todo: what do these believe?: Kebri
+
 ## ADDING A COUNTRY CHECKLIST
 
 1. common/countries.txt
@@ -37,37 +41,37 @@
 XXX = {
 	aristocrats = {
 		culture = viminian
-		religion = animist
+		religion = cadhinoran
 		size = 1%
 	}
 
 	clergymen = {
 		culture = viminian
-		religion = animist
+		religion = cadhinoran
 		size = 1%
 	}
 
 	artisans = {
 		culture = viminian
-		religion = animist
+		religion = cadhinoran
 		size = 5%
 	}
 
 	soldiers = {
 		culture = viminian
-		religion = animist
+		religion = cadhinoran
 		size = 1%
 	}
 
 	officers = {
 		culture = viminian
-		religion = animist
+		religion = cadhinoran
 		size = 0.1%
 	}
 
 	farmers = {
 		culture = viminian
-		religion = animist
+		religion = cadhinoran
 		size = 91.9%
 	}
 

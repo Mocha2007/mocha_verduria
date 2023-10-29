@@ -2,35 +2,35 @@
 14 = {
 	farmers = {
 		culture = dhekhnami
-		religion = animist
+		religion = gelalhat
 		size = 150000
 	}
 }
 42 = {
 	farmers = {
 		culture = sarroc
-		religion = animist
+		religion = gelalhat
 		size = 150000
 	}
 }
 43 = {
 	farmers = {
 		culture = dhekhnami
-		religion = animist
+		religion = gelalhat
 		size = 150000
 	}
 }
 44 = {
 	farmers = {
 		culture = dhekhnami
-		religion = animist
+		religion = gelalhat
 		size = 150000
 	}
 }
 45 = {
 	farmers = {
 		culture = dhekhnami
-		religion = animist
+		religion = gelalhat
 		size = 150000
 	}
 }
