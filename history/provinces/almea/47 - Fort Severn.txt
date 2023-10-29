@@ -1,5 +1,6 @@
+# http://www.almeopedia.com/almeo.html?Barakh%C3%BAn
 owner = BAR
 controller = BAR
 add_core = BAR
-trade_goods = cotton
+trade_goods = sulphur
 life_rating = 35

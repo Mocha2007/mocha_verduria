@@ -1,5 +1,6 @@
 owner = VER
 controller = VER
 add_core = VER
-trade_goods = cotton
+trade_goods = fish # guess
 life_rating = 35
+naval_base = 1

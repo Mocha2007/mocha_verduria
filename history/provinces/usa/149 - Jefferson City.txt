@@ -1,2 +1,0 @@
-# Moreo Ašcai
-trade_goods = coffee

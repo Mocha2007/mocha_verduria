@@ -1,2 +1,0 @@
-# http://www.almeopedia.com/almeo.html?Barakh%C3%BAn
-trade_goods = sulphur

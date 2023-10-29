@@ -1,2 +1,0 @@
-# http://www.almeopedia.com/almeo.html?Zelm
-trade_goods = cattle

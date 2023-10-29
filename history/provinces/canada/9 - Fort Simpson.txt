@@ -1,2 +1,0 @@
-trade_goods = fish # guess
-naval_base = 1

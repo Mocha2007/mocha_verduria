@@ -1,5 +1,6 @@
+# http://www.almeopedia.com/almeo.html?Vim%C3%ADnia
 owner = VIM
 controller = VIM
 add_core = VIM
-trade_goods = cotton
+trade_goods = grain
 life_rating = 35

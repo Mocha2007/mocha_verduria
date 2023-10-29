@@ -1,5 +1,6 @@
+# http://www.almeopedia.com/almeo.html?Zelm
 owner = VER
 controller = VER
 add_core = VER
-trade_goods = cotton
+trade_goods = cattle
 life_rating = 35

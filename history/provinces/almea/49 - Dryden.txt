@@ -1,5 +1,6 @@
+# http://www.almeopedia.com/almeo.html?Hroth
 owner = HRO
 controller = HRO
 add_core = HRO
-trade_goods = cotton
+trade_goods = iron # marble
 life_rating = 35
