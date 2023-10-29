@@ -1,0 +1,73 @@
+# http://www.almeopedia.com/almeo.html?Nan
+# Nan - 1M? -> 250k?
+2 = {
+	aristocrats = {
+		culture = nanese
+		religion = animist
+		size = 2500
+	}
+
+	clergymen = {
+		culture = nanese
+		religion = animist
+		size = 2500
+	}
+
+	artisans = {
+		culture = nanese
+		religion = animist
+		size = 12500
+	}
+
+	soldiers = {
+		culture = nanese
+		religion = animist
+		size = 2500
+	}
+
+	officers = {
+		culture = nanese
+		religion = animist
+		size = 250
+	}
+
+	farmers = {
+		culture = nanese
+		religion = animist
+		size = 229750
+	}
+
+}
+# Moreo Ašcai - 10k? -> 2.5k?
+149 = {
+	aristocrats = {
+		culture = nanese
+		religion = animist
+		size = 25
+	}
+
+	clergymen = {
+		culture = nanese
+		religion = animist
+		size = 25
+	}
+
+	artisans = {
+		culture = nanese
+		religion = animist
+		size = 125
+	}
+
+	soldiers = {
+		culture = nanese
+		religion = animist
+		size = 25
+	}
+
+	farmers = {
+		culture = nanese
+		religion = animist
+		size = 2297
+	}
+
+}

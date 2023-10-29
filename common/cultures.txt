@@ -141,3 +141,15 @@ wedei_mei = {
 		last_names = { Lucei "multiword surname" }
 	}
 }
+
+western = {
+	leader = european
+	unit = EuropeanGC
+	nanese = { 
+		color = { 220 220 200 }
+
+		first_names = { Teronel }
+
+		last_names = { Lucei "multiword surname" }
+	}
+}

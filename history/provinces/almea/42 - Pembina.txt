@@ -1,5 +1,5 @@
 owner = DHE
 controller = DHE
 add_core = DHE
-trade_goods = cotton
+trade_goods = silk
 life_rating = 35
