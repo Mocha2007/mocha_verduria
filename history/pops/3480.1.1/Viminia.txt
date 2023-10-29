@@ -2,37 +2,37 @@
 # Viminia - 950000 -> 237500
 66 = {
 	aristocrats = {
-		culture = viminian
+		culture = verdurian
 		religion = animist
 		size = 2300
 	}
 
 	clergymen = {
-		culture = viminian
+		culture = verdurian
 		religion = animist
 		size = 1600
 	}
 
 	artisans = {
-		culture = viminian
+		culture = verdurian
 		religion = animist
 		size = 14000
 	}
 
 	soldiers = {
-		culture = viminian
+		culture = verdurian
 		religion = animist
 		size = 2375
 	}
 
 	officers = {
-		culture = viminian
+		culture = verdurian
 		religion = animist
 		size = 238
 	}
 
 	farmers = {
-		culture = viminian
+		culture = verdurian
 		religion = animist
 		size = 218000
 	}

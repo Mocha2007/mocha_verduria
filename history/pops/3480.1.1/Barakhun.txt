@@ -2,37 +2,37 @@
 # Barakhun - 600000 -> 150000
 47 = {
 	aristocrats = {
-		culture = verdurian
+		culture = barakhinei
 		religion = animist
 		size = 1500
 	}
 
 	clergymen = {
-		culture = verdurian
+		culture = barakhinei
 		religion = animist
 		size = 1000
 	}
 
 	artisans = {
-		culture = verdurian
+		culture = barakhinei
 		religion = animist
 		size = 8800
 	}
 
 	soldiers = {
-		culture = verdurian
+		culture = barakhinei
 		religion = animist
 		size = 1500
 	}
 
 	officers = {
-		culture = viminian
+		culture = barakhinei
 		religion = animist
 		size = 150
 	}
 
 	farmers = {
-		culture = verdurian
+		culture = barakhinei
 		religion = animist
 		size = 137200
 	}

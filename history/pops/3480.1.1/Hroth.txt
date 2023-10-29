@@ -2,37 +2,37 @@
 # Hroth - 470000 -> 117500
 49 = {
 	aristocrats = {
-		culture = verdurian
+		culture = barakhinei
 		religion = animist
 		size = 1150
 	}
 
 	clergymen = {
-		culture = verdurian
+		culture = barakhinei
 		religion = animist
 		size = 790
 	}
 
 	artisans = {
-		culture = verdurian
+		culture = barakhinei
 		religion = animist
 		size = 6900
 	}
 
 	soldiers = {
-		culture = verdurian
+		culture = barakhinei
 		religion = animist
 		size = 1175
 	}
 
 	officers = {
-		culture = viminian
+		culture = barakhinei
 		religion = animist
 		size = 118
 	}
 
 	farmers = {
-		culture = verdurian
+		culture = barakhinei
 		religion = animist
 		size = 107000
 	}
