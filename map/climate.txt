@@ -137,7 +137,6 @@ temperate_subtropical_climate = {
 
 # Cfb/Cfc
 temperate_oceanic_climate = {
-	10
 	# luduyn
 	95 98 101
 	# feinae
@@ -147,6 +146,10 @@ temperate_oceanic_climate = {
 	120 121 122 123 124 125 126 127
 	# west erelae
 	133 134
+	# Xengiman
+	10
+	150 151 152 153 154 155 156 157 158 159
+	160 161 162
 }
 
 # Cs

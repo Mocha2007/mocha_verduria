@@ -1,40 +1,534 @@
 # http://www.almeopedia.com/almeo.html?Xurno
-# Xurno - 4M (wild guess) -> 1M
+# Xurno - 5.6M (wild guess) -> 1.4M -> 100k/prov
 10 = {
 	aristocrats = {
-		culture = xurnese
-		religion = endajue
-		size = 10000
-	}
-
-	clergymen = {
-		culture = xurnese
-		religion = endajue
-		size = 10000
-	}
-
-	artisans = {
-		culture = xurnese
-		religion = endajue
-		size = 50000
-	}
-
-	soldiers = {
-		culture = xurnese
-		religion = endajue
-		size = 10000
-	}
-
-	officers = {
 		culture = xurnese
 		religion = endajue
 		size = 1000
 	}
 
+	clergymen = {
+		culture = xurnese
+		religion = endajue
+		size = 1000
+	}
+
+	artisans = {
+		culture = xurnese
+		religion = endajue
+		size = 5000
+	}
+
+	soldiers = {
+		culture = xurnese
+		religion = endajue
+		size = 1000
+	}
+
+	officers = {
+		culture = xurnese
+		religion = endajue
+		size = 100
+	}
+
 	farmers = {
 		culture = xurnese
 		religion = endajue
-		size = 929000
+		size = 92900
+	}
+
+}
+150 = {
+	aristocrats = {
+		culture = xurnese
+		religion = endajue
+		size = 1000
+	}
+
+	clergymen = {
+		culture = xurnese
+		religion = endajue
+		size = 1000
+	}
+
+	artisans = {
+		culture = xurnese
+		religion = endajue
+		size = 5000
+	}
+
+	soldiers = {
+		culture = xurnese
+		religion = endajue
+		size = 1000
+	}
+
+	officers = {
+		culture = xurnese
+		religion = endajue
+		size = 100
+	}
+
+	farmers = {
+		culture = xurnese
+		religion = endajue
+		size = 92900
+	}
+
+}
+151 = {
+	aristocrats = {
+		culture = xurnese
+		religion = endajue
+		size = 1000
+	}
+
+	clergymen = {
+		culture = xurnese
+		religion = endajue
+		size = 1000
+	}
+
+	artisans = {
+		culture = xurnese
+		religion = endajue
+		size = 5000
+	}
+
+	soldiers = {
+		culture = xurnese
+		religion = endajue
+		size = 1000
+	}
+
+	officers = {
+		culture = xurnese
+		religion = endajue
+		size = 100
+	}
+
+	farmers = {
+		culture = xurnese
+		religion = endajue
+		size = 92900
+	}
+
+}
+152 = {
+	aristocrats = {
+		culture = xurnese
+		religion = endajue
+		size = 1000
+	}
+
+	clergymen = {
+		culture = xurnese
+		religion = endajue
+		size = 1000
+	}
+
+	artisans = {
+		culture = xurnese
+		religion = endajue
+		size = 5000
+	}
+
+	soldiers = {
+		culture = xurnese
+		religion = endajue
+		size = 1000
+	}
+
+	officers = {
+		culture = xurnese
+		religion = endajue
+		size = 100
+	}
+
+	farmers = {
+		culture = xurnese
+		religion = endajue
+		size = 92900
+	}
+
+}
+153 = {
+	aristocrats = {
+		culture = xurnese
+		religion = endajue
+		size = 1000
+	}
+
+	clergymen = {
+		culture = xurnese
+		religion = endajue
+		size = 1000
+	}
+
+	artisans = {
+		culture = xurnese
+		religion = endajue
+		size = 5000
+	}
+
+	soldiers = {
+		culture = xurnese
+		religion = endajue
+		size = 1000
+	}
+
+	officers = {
+		culture = xurnese
+		religion = endajue
+		size = 100
+	}
+
+	farmers = {
+		culture = xurnese
+		religion = endajue
+		size = 92900
+	}
+
+}
+154 = {
+	aristocrats = {
+		culture = xurnese
+		religion = endajue
+		size = 1000
+	}
+
+	clergymen = {
+		culture = xurnese
+		religion = endajue
+		size = 1000
+	}
+
+	artisans = {
+		culture = xurnese
+		religion = endajue
+		size = 5000
+	}
+
+	soldiers = {
+		culture = xurnese
+		religion = endajue
+		size = 1000
+	}
+
+	officers = {
+		culture = xurnese
+		religion = endajue
+		size = 100
+	}
+
+	farmers = {
+		culture = xurnese
+		religion = endajue
+		size = 92900
+	}
+
+}
+155 = {
+	aristocrats = {
+		culture = xurnese
+		religion = endajue
+		size = 1000
+	}
+
+	clergymen = {
+		culture = xurnese
+		religion = endajue
+		size = 1000
+	}
+
+	artisans = {
+		culture = xurnese
+		religion = endajue
+		size = 5000
+	}
+
+	soldiers = {
+		culture = xurnese
+		religion = endajue
+		size = 1000
+	}
+
+	officers = {
+		culture = xurnese
+		religion = endajue
+		size = 100
+	}
+
+	farmers = {
+		culture = xurnese
+		religion = endajue
+		size = 92900
+	}
+
+}
+156 = {
+	aristocrats = {
+		culture = xurnese
+		religion = endajue
+		size = 1000
+	}
+
+	clergymen = {
+		culture = xurnese
+		religion = endajue
+		size = 1000
+	}
+
+	artisans = {
+		culture = xurnese
+		religion = endajue
+		size = 5000
+	}
+
+	soldiers = {
+		culture = xurnese
+		religion = endajue
+		size = 1000
+	}
+
+	officers = {
+		culture = xurnese
+		religion = endajue
+		size = 100
+	}
+
+	farmers = {
+		culture = xurnese
+		religion = endajue
+		size = 92900
+	}
+
+}
+157 = {
+	aristocrats = {
+		culture = xurnese
+		religion = endajue
+		size = 1000
+	}
+
+	clergymen = {
+		culture = xurnese
+		religion = endajue
+		size = 1000
+	}
+
+	artisans = {
+		culture = xurnese
+		religion = endajue
+		size = 5000
+	}
+
+	soldiers = {
+		culture = xurnese
+		religion = endajue
+		size = 1000
+	}
+
+	officers = {
+		culture = xurnese
+		religion = endajue
+		size = 100
+	}
+
+	farmers = {
+		culture = xurnese
+		religion = endajue
+		size = 92900
+	}
+
+}
+158 = {
+	aristocrats = {
+		culture = xurnese
+		religion = endajue
+		size = 1000
+	}
+
+	clergymen = {
+		culture = xurnese
+		religion = endajue
+		size = 1000
+	}
+
+	artisans = {
+		culture = xurnese
+		religion = endajue
+		size = 5000
+	}
+
+	soldiers = {
+		culture = xurnese
+		religion = endajue
+		size = 1000
+	}
+
+	officers = {
+		culture = xurnese
+		religion = endajue
+		size = 100
+	}
+
+	farmers = {
+		culture = xurnese
+		religion = endajue
+		size = 92900
+	}
+
+}
+159 = {
+	aristocrats = {
+		culture = xurnese
+		religion = endajue
+		size = 1000
+	}
+
+	clergymen = {
+		culture = xurnese
+		religion = endajue
+		size = 1000
+	}
+
+	artisans = {
+		culture = xurnese
+		religion = endajue
+		size = 5000
+	}
+
+	soldiers = {
+		culture = xurnese
+		religion = endajue
+		size = 1000
+	}
+
+	officers = {
+		culture = xurnese
+		religion = endajue
+		size = 100
+	}
+
+	farmers = {
+		culture = xurnese
+		religion = endajue
+		size = 92900
+	}
+
+}
+160 = {
+	aristocrats = {
+		culture = xurnese
+		religion = endajue
+		size = 1000
+	}
+
+	clergymen = {
+		culture = xurnese
+		religion = endajue
+		size = 1000
+	}
+
+	artisans = {
+		culture = xurnese
+		religion = endajue
+		size = 5000
+	}
+
+	soldiers = {
+		culture = xurnese
+		religion = endajue
+		size = 1000
+	}
+
+	officers = {
+		culture = xurnese
+		religion = endajue
+		size = 100
+	}
+
+	farmers = {
+		culture = xurnese
+		religion = endajue
+		size = 92900
+	}
+
+}
+161 = {
+	aristocrats = {
+		culture = xurnese
+		religion = endajue
+		size = 1000
+	}
+
+	clergymen = {
+		culture = xurnese
+		religion = endajue
+		size = 1000
+	}
+
+	artisans = {
+		culture = xurnese
+		religion = endajue
+		size = 5000
+	}
+
+	soldiers = {
+		culture = xurnese
+		religion = endajue
+		size = 1000
+	}
+
+	officers = {
+		culture = xurnese
+		religion = endajue
+		size = 100
+	}
+
+	farmers = {
+		culture = xurnese
+		religion = endajue
+		size = 92900
+	}
+
+}
+162 = {
+	aristocrats = {
+		culture = xurnese
+		religion = endajue
+		size = 1000
+	}
+
+	clergymen = {
+		culture = xurnese
+		religion = endajue
+		size = 1000
+	}
+
+	artisans = {
+		culture = xurnese
+		religion = endajue
+		size = 5000
+	}
+
+	soldiers = {
+		culture = xurnese
+		religion = endajue
+		size = 1000
+	}
+
+	officers = {
+		culture = xurnese
+		religion = endajue
+		size = 100
+	}
+
+	farmers = {
+		culture = xurnese
+		religion = endajue
+		size = 92900
 	}
 
 }

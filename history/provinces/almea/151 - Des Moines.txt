@@ -1,0 +1,5 @@
+owner = XUR
+controller = XUR
+add_core = XUR
+trade_goods = fruit
+life_rating = 15

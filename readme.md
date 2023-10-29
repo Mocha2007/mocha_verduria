@@ -36,11 +36,12 @@ Religious Icons:
 7. gfx/flags/ (add the 5 flags)
 
 ## ADDING A PROVINCE CHECKLIST
-1. map/definition.csv
-2. map/provinces.bmp
-3. map/positions.txt, climate.txt, continent.txt, region.txt
-4. copy file over to provinces/almea/...
-5. localization/verduria.csv
+1. map/default.map (max_provinces, and also sea_starts if applicable)
+2. map/definition.csv
+3. map/provinces.bmp
+4. map/positions.txt, climate.txt, continent.txt, region.txt
+5. copy file over to provinces/almea/...
+6. localization/verduria.csv
 
 ## Default Pop Composition:
 
