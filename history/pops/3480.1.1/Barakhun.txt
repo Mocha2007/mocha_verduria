@@ -1,0 +1,34 @@
+# http://www.almeopedia.com/almeo.html?Barakh%C3%BAn
+# Barakhun - 600000 -> 150000
+47 = {
+	aristocrats = {
+		culture = verdurian
+		religion = animist
+		size = 1500
+	}
+
+	clergymen = {
+		culture = verdurian
+		religion = animist
+		size = 1000
+	}
+
+	artisans = {
+		culture = verdurian
+		religion = animist
+		size = 8800
+	}
+
+	soldiers = {
+		culture = verdurian
+		religion = animist
+		size = 1500
+	}
+
+	farmers = {
+		culture = verdurian
+		religion = animist
+		size = 137200
+	}
+
+}
