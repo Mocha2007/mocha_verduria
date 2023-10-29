@@ -8,6 +8,7 @@ DHE		= "countries/Dhekhnam.txt"
 FLO		= "countries/Flora.txt"
 KEB		= "countries/Kebri.txt"
 VER		= "countries/Verduria.txt"
+XUR		= "countries/Xurno.txt"
 
 # Eretald Minors
 

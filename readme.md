@@ -6,8 +6,10 @@
 ## ADDING A COUNTRY CHECKLIST
 
 1. common/countries.txt
-2. common/countires/Xxx.txt
+2. common/countries/Xxx.txt
+	* Including Color
 3. history/countries/XXX - xxx.txt
+	* Capital, culture, religion
 4. history/provinces/almea/ (add core info to provinces)
 5. history/pops/3480.1.1/Xxx.txt
 6. localization/verduria.csv (add XXX and XXX_ADJ keys)
