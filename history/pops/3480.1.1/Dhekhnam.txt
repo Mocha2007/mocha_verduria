@@ -3,6 +3,13 @@
 	farmers = {
 		culture = dhekhnami
 		religion = animist
-		size = 15000
+		size = 150000
+	}
+}
+44 = {
+	farmers = {
+		culture = dhekhnami
+		religion = animist
+		size = 150000
 	}
 }
