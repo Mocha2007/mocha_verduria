@@ -1,0 +1,40 @@
+# http://www.almeopedia.com/almeo.html?Obenzaya
+# Obenzaya - 500000 -> 125000
+50 = {
+	aristocrats = {
+		culture = obenzayet
+		religion = animist
+		size = 1250
+	}
+
+	clergymen = {
+		culture = obenzayet
+		religion = animist
+		size = 1250
+	}
+
+	artisans = {
+		culture = obenzayet
+		religion = animist
+		size = 6250
+	}
+
+	soldiers = {
+		culture = obenzayet
+		religion = animist
+		size = 1250
+	}
+
+	officers = {
+		culture = obenzayet
+		religion = animist
+		size = 125
+	}
+
+	farmers = {
+		culture = obenzayet
+		religion = animist
+		size = 116125
+	}
+
+}

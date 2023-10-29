@@ -1,0 +1,40 @@
+# http://www.almeopedia.com/almeo.html?Peleu
+# Peleu - 300000 -> 75000
+52 = {
+	aristocrats = {
+		culture = verdurian
+		religion = animist
+		size = 750
+	}
+
+	clergymen = {
+		culture = verdurian
+		religion = animist
+		size = 750
+	}
+
+	artisans = {
+		culture = verdurian
+		religion = animist
+		size = 3750
+	}
+
+	soldiers = {
+		culture = verdurian
+		religion = animist
+		size = 750
+	}
+
+	officers = {
+		culture = verdurian
+		religion = animist
+		size = 75
+	}
+
+	farmers = {
+		culture = verdurian
+		religion = animist
+		size = 69675
+	}
+
+}

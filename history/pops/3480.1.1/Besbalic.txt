@@ -1,0 +1,40 @@
+# http://www.almeopedia.com/almeo.html?Be%C5%A1balic
+# Bešbalic - 990000 -> 247500
+53 = {
+	aristocrats = {
+		culture = barakhinei
+		religion = animist
+		size = 2475
+	}
+
+	clergymen = {
+		culture = barakhinei
+		religion = animist
+		size = 2475
+	}
+
+	artisans = {
+		culture = barakhinei
+		religion = animist
+		size = 12375
+	}
+
+	soldiers = {
+		culture = barakhinei
+		religion = animist
+		size = 2475
+	}
+
+	officers = {
+		culture = barakhinei
+		religion = animist
+		size = 248
+	}
+
+	farmers = {
+		culture = barakhinei
+		religion = animist
+		size = 229927
+	}
+
+}

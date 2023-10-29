@@ -50,6 +50,30 @@ eastern_central = {
 	}
 }
 
+eastern_karazi = {
+	leader = european
+	unit = EuropeanGC
+	curiyan = { 
+		color = { 128 128 64 }
+
+		first_names = { Teronel }
+
+		last_names = { Lucei "multiword surname" }
+	}
+}
+
+eastern_naviu = {
+	leader = european
+	unit = EuropeanGC
+	obenzayet = { 
+		color = { 128 96 64 }
+
+		first_names = { Teronel }
+
+		last_names = { Lucei "multiword surname" }
+	}
+}
+
 eynleyni = {
 	leader = european
 	unit = EuropeanGC

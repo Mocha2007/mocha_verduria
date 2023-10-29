@@ -60,7 +60,7 @@ XXX = {
 	farmers = {
 		culture = viminian
 		religion = animist
-		size = 92.9%
+		size = 91.9%
 	}
 
 }
