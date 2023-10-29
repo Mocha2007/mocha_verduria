@@ -1,0 +1,40 @@
+# http://www.almeopedia.com/almeo.html?Ben%C3%A9cia
+# Benécia - 690000 -> 172500
+51 = {
+	aristocrats = {
+		culture = benece
+		religion = animist
+		size = 1725
+	}
+
+	clergymen = {
+		culture = benece
+		religion = animist
+		size = 1725
+	}
+
+	artisans = {
+		culture = benece
+		religion = animist
+		size = 8625
+	}
+
+	soldiers = {
+		culture = benece
+		religion = animist
+		size = 1725
+	}
+
+	officers = {
+		culture = benece
+		religion = animist
+		size = 173
+	}
+
+	farmers = {
+		culture = benece
+		religion = animist
+		size = 160253
+	}
+
+}

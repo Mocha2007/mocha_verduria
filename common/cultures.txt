@@ -13,13 +13,6 @@ eastern_axunaic = {
 eastern_central = {
 	leader = european
 	unit = EuropeanGC
-	verdurian = { 
-		color = { 192 192 0 }
-
-		first_names = { Teronel }
-
-		last_names = { Lucei "multiword surname" }
-	}
 	barakhinei = { 
 		color = { 162 192 0 }
 
@@ -27,8 +20,29 @@ eastern_central = {
 
 		last_names = { Lucei "multiword surname" }
 	}
+	benece = { 
+		color = { 102 162 0 }
+
+		first_names = { Teronel }
+
+		last_names = { Lucei "multiword surname" }
+	}
 	ismain = { 
 		color = { 142 162 0 }
+
+		first_names = { Teronel }
+
+		last_names = { Lucei "multiword surname" }
+	}
+	sarroc = { 
+		color = { 162 102 0 }
+
+		first_names = { Teronel }
+
+		last_names = { Lucei "multiword surname" }
+	}
+	verdurian = { 
+		color = { 192 192 0 }
 
 		first_names = { Teronel }
 
