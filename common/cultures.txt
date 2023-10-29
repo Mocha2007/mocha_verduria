@@ -44,9 +44,106 @@ eastern_central = {
 	verdurian = { 
 		color = { 192 192 0 }
 
-		first_names = { Teronel }
+		first_names = {
+			# http://www.zompist.com/names.htm
+			# Combined names (Masculine only)
+			Adhamor Adhdul Adhiosu Adhrhem
+			Albes Aldan Alefár Alric Alsar Alunarho
+			Anárion Ancor Andorot Andul Anfréy Ažerey
+			Andlon Andörn Andorom
+			Banelut Banes Banžosu Bansort Banvuran
+			Belgefár Belges Belglavo Belgolón Belmëra Belörn Belzon
+			Bendazón Bendom Bendrot Beselut Besfant Bezglavo
+			Caleon Calesta Calodën Calones Calozer
+			Claiglavo Clainožu Claiorh Claizon
+			Comelut Comnes Conglavo Coreon Cornes Cörpon
+			Dambes Dašcör Dašfant Dënes Dichivuran
+			Domefár Domfrey Dorotádh Draceon Dracoum Draczol
+			Dhaldan Dhaldom Dhálefar Dhalfrey Dhalir
+			Dhomeon Dhoncör
+			Efaristo Ésecom Esfalban Esfalnan Esfant Estdorot Ezdom Ezgareon
+			Elenes Eleonarho Eleom Eligliny Eliric
+			Elubes Elucom Elucör Elulón Eluvuran
+			Erdan Ereon Eresta Ernes Estacalo Estadul Estanes
+			Falbes Faledašo Faledom Fatandor Fandul
+			Finarho Foridašo Frédan Frédrot Frédhal
+			Garcör Gardom Garnarho
+			Gencör Genéh Gendan Geric Gësar Gešec
+			Gesfant Gesglavo Gesom Gesric Gesvuran
+			Glavric Glinelir Gliniglavo Grösefar Grösorh
+			Humbes Humefár
+			Ilcorey Ílinarh Ilisör Inëbes Inëcör Inësör
+			Kaidan Kaidorot Kaifar Kairuzón Kaišec Kaivuran Karësta
+			Kolbes Kolcör Kolhum
+			Letidan Letisör Letizon Licor Liteon
+			Londrot Lonefár Lones Lonsör Lontay
+			Meicom Meleon Mélicom Mélišec
+			Mërcalo Mërošec Mërozol Murdorot Murgen
+			Nanes Nanefár Nanric Narhbes Narhrhem
+			Nežefár Nežnan Nežnes Nožnes Nounes Nozon
+			Nuscör Nuseon Nušec
+			Ohdorot Osör
+			Obadrot Opkairu Opletu Oporo Opric Opsör
+			Onkairu Onhum Onžosu Örmban Örnric Örnum
+			Palcör Paleon Palfrey Pédom Pédrot Pésar
+			Poncör Pondašo Pones Ponumeon Ponvuran
+			Ribelgo Rivuran
+			Rušec Ružar Ruždom Ružórh Ružrec Ružžol
+			Rhedom Rhemadh Rhescör Rhesfrey Rhezmur Rhežul
+			Sarbes Sarnes Saroro Sarric Saruž
+			Seadul Sördom Sördul Söric Sulbes Sulefár Šelicor
+			Taidan Taicör Taipon Taivuran
+			Telnes Teleon Telric
+			Tigar Tihum Tilir Timey Tulimër
+			Veadhanes Veadhlon Vuraneon
+			Zerban Zercalo Zerdorot
+			Zoldrac Zoldhom Zolfant Zolges Zolšec Zolvuran
+			Zombur Zuldom Zulsör Zulzon
+			Žedhal Ževuran Žilir Živcör Živmey
+			Žuliosu Žullon Žobes Žozban Žozuran
+			# Non-combined names (Masculine only)
+			# Cuzeian names (Masculine only)
+			# Elenico names (Masculine only)
+		}
 
-		last_names = { Lucei "multiword surname" }
+		last_names = {
+			# Family names
+			Abolineron Adianey Aldaney Adhamorey Adho Adhremey Alésiy Alletiey Anaseriy
+			Andona Andur Anëtey Aodey Araney Araric Arcalney Arin Aržentey Atirey Avrämey
+			Ayeon Azel Azënar Azifse Azure Ažirey
+			Badbec Barbúl Bardëy Bardiney Barsucey Base Bazno Bechom Behdeley Belgey Belgobán Belörney
+			Belucaro Benda Berg Berikme Bodhmorey Borodhéy Bosey Breve Brune Bruyer Búlifor Bulondom Buyeley
+			Caizure Caleon Calney Calseom Caltey Cänen Cankéu Capirey Cátanor Cedhnare Cerhecom
+			Cintanilo Cistile Clemetey Clidhu Comey Condu Cördu Coržey Cradhey Crifom Cucey Culán Cumoney Cunr
+			Chaise Chanom Chelures Chuculey Chuney Churmey
+			Daroden Dauš Debere Delh Demecha Desë Deštaë Diburey Dichy Dineon Dinkop Dobriy Doliney Domur Draceon Dulau
+			Dhanëley Dharmimey Dhévora Dhumatom Dhumëy
+			Ecokíy Edhron Eilonuy Eley Eliley Elirey Eluceon Eluloney Elutë Endom Enil Enotivey Epražo
+			Erakilo Erdaney Ereon Éresey Erom Ésecom Esta Ešireon Etaldey Etaldey Eucarey Ežcud
+			Fäbom Fachiu Fale Fevomq Filipey Firustey Flave Foriy Forte
+			Gal Gambra Gäsey Gavrëley Geteme Grogec Guey Gunoro
+			Hachu Haute Hupa Hutorey Hutorom Huvec
+			Idor Ihaney Ihtüec Ileon Imiru Ismaë Isorain Išereon Išicrey Iveri
+			Kaney Kože Kunom Kurey Kušdhey
+			Lafem Lambeza Lanyom Lapis Lazarey Lekaro Lescey Letidaney Lonsörey Loscuna Loša Lotom Luomey Lureš
+			Macre Maranhey Maranhëy Marcey Margitey Matrey Melondan Menley Mëril Mese
+			Mestë Miheley Mirtíy Miturey Mitušek Mlake Monteneon Motucöm Müsey Myasom
+			Nanaric Nanom Narhou Necocréy Nëralúca Nëramária Nërapríša Nëraváchi Neroney Nëroniháno Nërongáyo Nëronkúro
+			Nëronmatéo Nëronmíhel Nëronpável Nëronpétro Neskaryu Nezë Neziey Nölney Nrüsk Nuey
+			Obadeon Obuneon Oknorey Olašu Oloney Oneley Orgaric Örn Oron Orheon Osol Osörey
+			Paleon Parne Parnom Pavleto Pavley Pavon Peiley Peleti Pelom Pirosolom Pivor Prežeon Purnes Puznur
+			Rälom Revouse Rivuran Rožy Rurhy Ružeon Rúžžue
+			Rhafor Rhanorey Rhasmesti Rhis Rhode
+			Sabadey Sáluer Saney Samirey Sariley Sarom Savley Scilec Scušaney Selëy Sfica Simoney
+			Sirhcar Sižom Smire Snucay Sofuit Sönilec Streloro Sulorey Suvoney Süy
+			Šautom Šaymeon Šayumor Šerian Škuašy Šmirulo Šrayom Šualom Šucha
+			Tabose Täl Tellec Telom Tihy Tire Tuhoney
+			Ulianey Uol Uprusin Urezey Uselen Ušete Uverom
+			Vereon Vesnostey Vešdaney Viminë Vinom Vižo Vleteon Vochnor Vuraney
+			Yagom Yan
+			Zaharey Zanuy Zavere Zeorey Zerom Ziradu Zolbrak Zoleon Zolfantey Zomburey Zömey
+			Žambey Žeizey Žilirey Žiradu
+		}
 	}
 }
 
