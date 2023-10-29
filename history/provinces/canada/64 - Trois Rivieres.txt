@@ -1,0 +1,2 @@
+# http://www.almeopedia.com/almeo.html?Curesi
+trade_goods = coal
