@@ -398,31 +398,31 @@
 }
 82 = {
 	aristocrats = {
-		culture = verdurian
+		culture = barakhinei
 		religion = animist
 		size = 250
 	}
 
 	clergymen = {
-		culture = verdurian
+		culture = barakhinei
 		religion = animist
 		size = 175
 	}
 
 	artisans = {
-		culture = verdurian
+		culture = barakhinei
 		religion = animist
 		size = 1500
 	}
 
 	soldiers = {
-		culture = verdurian
+		culture = barakhinei
 		religion = animist
 		size = 250
 	}
 
 	farmers = {
-		culture = verdurian
+		culture = barakhinei
 		religion = animist
 		size = 73825
 	}
