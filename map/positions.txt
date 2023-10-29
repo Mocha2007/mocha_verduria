@@ -6005,3 +6005,49 @@
     }
 
 }
+
+# Malden
+149 = {
+    unit = {
+        x = 1398.000000
+        y = 1579.000000
+    }
+
+    text_position = {
+        x = 1398.599976
+        y = 1572.900024
+    }
+
+    text_scale = 3.599999
+    building_construction = {
+        x = 1409.000000
+        y = 1571.099976
+    }
+
+    military_construction = {
+        x = 1404.000000
+        y = 1586.000000
+    }
+
+    factory = {
+        x = 1385.900024
+        y = 1581.000000
+    }
+
+    building_position = {
+        fort = {
+            x = 1406.000000
+            y = 1577.000000
+        }
+
+    }
+
+    spawn_railway_track = {
+        {
+            x = 1401.999756
+            y = 1556.400391
+        }
+
+    }
+
+}
