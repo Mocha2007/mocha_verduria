@@ -1,3 +1,8 @@
+2023
+SPLIT XENGIMAN AND SKOURAS INTO THREE REGIONS APIECE
+
+
+2022
 years: add 1700 to our year - based on http://www.zompist.com/vermodern.htm
 	3485 = 1785 (+1700 steam locomotive)
 	3543 = 1818 (+1725 Bicycle)
